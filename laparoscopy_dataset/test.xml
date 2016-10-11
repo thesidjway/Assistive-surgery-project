@@ -1,0 +1,3026 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<tagDocument>
+<numberOfFrames>
+600
+</numberOfFrames>
+<frame>
+<PositionIndex> 1575 </PositionIndex>
+<tool> 208 268 64.844827 5.848515 </tool>
+<tool> 123 174 43.747142 4.022589 </tool>
+</frame>
+<frame>
+<PositionIndex> 1576 </PositionIndex>
+<tool> 184 270 66.800204 5.889735 </tool>
+<tool> 106 171 52.929396 4.047614 </tool>
+</frame>
+<frame>
+<PositionIndex> 1577 </PositionIndex>
+<tool> 171 265 67.506793 5.878294 </tool>
+<tool> 98 169 51.274942 4.096769 </tool>
+</frame>
+<frame>
+<PositionIndex> 1578 </PositionIndex>
+<tool> 155 265 76.587192 5.875929 </tool>
+<tool> 95 174 39.390501 4.024244 </tool>
+</frame>
+<frame>
+<PositionIndex> 1579 </PositionIndex>
+<tool> 144 261 72.390922 5.859516 </tool>
+<tool> 85 169 45.353644 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1580 </PositionIndex>
+<tool> 133 265 85.283517 5.875554 </tool>
+<tool> 72 166 51.739395 4.060520 </tool>
+</frame>
+<frame>
+<PositionIndex> 1581 </PositionIndex>
+<tool> 128 264 84.010574 5.828466 </tool>
+<tool> 69 165 50.124565 4.056693 </tool>
+</frame>
+<frame>
+<PositionIndex> 1582 </PositionIndex>
+<tool> 127 264 86.075001 5.828466 </tool>
+<tool> 67 164 51.378944 4.080698 </tool>
+</frame>
+<frame>
+<PositionIndex> 1583 </PositionIndex>
+<tool> 125 266 89.212831 5.828466 </tool>
+<tool> 64 166 52.918189 4.100236 </tool>
+</frame>
+<frame>
+<PositionIndex> 1584 </PositionIndex>
+<tool> 125 269 89.976347 5.810688 </tool>
+<tool> 67 167 49.533373 4.136014 </tool>
+</frame>
+<frame>
+<PositionIndex> 1585 </PositionIndex>
+<tool> 125 269 95.257555 5.819538 </tool>
+<tool> 59 164 56.474984 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1586 </PositionIndex>
+<tool> 124 271 89.888411 5.845394 </tool>
+<tool> 61 166 54.905829 4.119039 </tool>
+</frame>
+<frame>
+<PositionIndex> 1587 </PositionIndex>
+<tool> 123 275 93.947198 5.810279 </tool>
+<tool> 57 167 60.064746 4.064578 </tool>
+</frame>
+<frame>
+<PositionIndex> 1588 </PositionIndex>
+<tool> 127 276 93.997692 5.766490 </tool>
+<tool> 60 167 52.929396 4.118639 </tool>
+</frame>
+<frame>
+<PositionIndex> 1589 </PositionIndex>
+<tool> 125 277 91.704434 5.845394 </tool>
+<tool> 58 174 56.750874 4.055314 </tool>
+</frame>
+<frame>
+<PositionIndex> 1590 </PositionIndex>
+<tool> 126 279 88.672674 5.819538 </tool>
+<tool> 57 176 59.688327 4.010132 </tool>
+</frame>
+<frame>
+<PositionIndex> 1591 </PositionIndex>
+<tool> 126 281 86.553728 5.880864 </tool>
+<tool> 56 176 57.070482 4.136964 </tool>
+</frame>
+<frame>
+<PositionIndex> 1592 </PositionIndex>
+<tool> 124 286 90.257168 5.828084 </tool>
+<tool> 53 173 63.632207 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1593 </PositionIndex>
+<tool> 125 288 93.797663 5.811063 </tool>
+<tool> 51 173 60.608686 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 1594 </PositionIndex>
+<tool> 125 290 96.244535 5.852047 </tool>
+<tool> 58 176 56.474984 4.113214 </tool>
+</frame>
+<frame>
+<PositionIndex> 1595 </PositionIndex>
+<tool> 127 287 95.970934 5.854921 </tool>
+<tool> 53 179 61.614829 4.077362 </tool>
+</frame>
+<frame>
+<PositionIndex> 1596 </PositionIndex>
+<tool> 128 284 95.970934 5.888394 </tool>
+<tool> 52 175 62.856938 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 1597 </PositionIndex>
+<tool> 130 284 88.402477 5.828084 </tool>
+<tool> 56 177 55.496790 4.073003 </tool>
+</frame>
+<frame>
+<PositionIndex> 1598 </PositionIndex>
+<tool> 135 279 88.886462 5.843343 </tool>
+<tool> 56 174 58.736725 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1599 </PositionIndex>
+<tool> 137 282 87.306531 5.786763 </tool>
+<tool> 60 176 53.950493 3.993559 </tool>
+</frame>
+<frame>
+<PositionIndex> 1600 </PositionIndex>
+<tool> 137 282 88.806352 5.819538 </tool>
+<tool> 57 178 60.117389 4.160734 </tool>
+</frame>
+<frame>
+<PositionIndex> 1601 </PositionIndex>
+<tool> 139 282 87.848336 5.861180 </tool>
+<tool> 59 175 58.076646 4.113214 </tool>
+</frame>
+<frame>
+<PositionIndex> 1602 </PositionIndex>
+<tool> 144 282 88.091061 5.827734 </tool>
+<tool> 64 175 54.100534 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 1602 </PositionIndex>
+<tool> 140 284 98.596410 5.828466 </tool>
+<tool> 57 174 65.639725 4.046420 </tool>
+</frame>
+<frame>
+<PositionIndex> 1603 </PositionIndex>
+<tool> 141 286 100.453291 5.819538 </tool>
+<tool> 58 175 62.626289 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1604 </PositionIndex>
+<tool> 142 285 97.996666 5.854921 </tool>
+<tool> 58 175 64.084394 4.096769 </tool>
+</frame>
+<frame>
+<PositionIndex> 1605 </PositionIndex>
+<tool> 144 283 95.982243 5.845394 </tool>
+<tool> 58 175 60.236164 4.076551 </tool>
+</frame>
+<frame>
+<PositionIndex> 1606 </PositionIndex>
+<tool> 141 286 96.359110 5.828466 </tool>
+<tool> 55 174 59.876877 4.108083 </tool>
+</frame>
+<frame>
+<PositionIndex> 1607 </PositionIndex>
+<tool> 140 287 95.607418 5.864961 </tool>
+<tool> 55 175 64.642264 4.076551 </tool>
+</frame>
+<frame>
+<PositionIndex> 1608 </PositionIndex>
+<tool> 144 285 90.461460 5.828883 </tool>
+<tool> 58 175 57.119077 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1609 </PositionIndex>
+<tool> 150 281 88.246604 5.828883 </tool>
+<tool> 59 174 60.412216 4.114631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1610 </PositionIndex>
+<tool> 152 275 87.355744 5.799738 </tool>
+<tool> 59 174 62.456478 4.109159 </tool>
+</frame>
+<frame>
+<PositionIndex> 1611 </PositionIndex>
+<tool> 155 271 84.833828 5.847832 </tool>
+<tool> 57 174 62.849307 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1612 </PositionIndex>
+<tool> 154 271 83.265407 5.867121 </tool>
+<tool> 57 176 61.696110 4.065342 </tool>
+</frame>
+<frame>
+<PositionIndex> 1613 </PositionIndex>
+<tool> 154 272 72.359664 5.873058 </tool>
+<tool> 56 175 62.072027 4.046420 </tool>
+</frame>
+<frame>
+<PositionIndex> 1614 </PositionIndex>
+<tool> 158 272 79.040289 5.847832 </tool>
+<tool> 57 175 63.532240 4.098619 </tool>
+</frame>
+<frame>
+<PositionIndex> 1615 </PositionIndex>
+<tool> 160 269 79.770587 5.819538 </tool>
+<tool> 57 171 64.493448 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1616 </PositionIndex>
+<tool> 162 265 75.640037 5.819538 </tool>
+<tool> 60 174 59.308292 4.098619 </tool>
+</frame>
+<frame>
+<PositionIndex> 1617 </PositionIndex>
+<tool> 163 265 72.135668 5.809829 </tool>
+<tool> 62 177 60.230566 4.096092 </tool>
+</frame>
+<frame>
+<PositionIndex> 1618 </PositionIndex>
+<tool> 164 268 78.531051 5.870775 </tool>
+<tool> 65 178 60.964977 4.137317 </tool>
+</frame>
+<frame>
+<PositionIndex> 1619 </PositionIndex>
+<tool> 160 276 84.327591 5.861180 </tool>
+<tool> 68 181 56.370449 4.158708 </tool>
+</frame>
+<frame>
+<PositionIndex> 1620 </PositionIndex>
+<tool> 159 281 93.485674 5.870775 </tool>
+<tool> 68 184 59.682301 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1621 </PositionIndex>
+<tool> 159 276 88.307711 5.850778 </tool>
+<tool> 69 184 59.342390 4.132386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1622 </PositionIndex>
+<tool> 157 276 90.202062 5.827734 </tool>
+<tool> 74 187 53.067918 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1623 </PositionIndex>
+<tool> 159 276 93.707207 5.827734 </tool>
+<tool> 80 190 53.118719 4.148520 </tool>
+</frame>
+<frame>
+<PositionIndex> 1624 </PositionIndex>
+<tool> 159 278 92.373692 5.835665 </tool>
+<tool> 84 191 48.843269 4.138722 </tool>
+</frame>
+<frame>
+<PositionIndex> 1625 </PositionIndex>
+<tool> 161 276 93.858197 5.827734 </tool>
+<tool> 83 191 51.843517 4.120613 </tool>
+</frame>
+<frame>
+<PositionIndex> 1626 </PositionIndex>
+<tool> 163 272 89.712966 5.892578 </tool>
+<tool> 85 192 53.523391 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1627 </PositionIndex>
+<tool> 165 274 90.157199 5.885557 </tool>
+<tool> 87 192 47.740192 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1628 </PositionIndex>
+<tool> 165 272 89.925047 5.922349 </tool>
+<tool> 88 194 48.587199 4.102729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1629 </PositionIndex>
+<tool> 167 272 92.630649 5.913279 </tool>
+<tool> 87 195 53.375157 4.113478 </tool>
+</frame>
+<frame>
+<PositionIndex> 1630 </PositionIndex>
+<tool> 169 269 88.870962 5.902679 </tool>
+<tool> 88 195 49.053349 4.138722 </tool>
+</frame>
+<frame>
+<PositionIndex> 1631 </PositionIndex>
+<tool> 169 270 90.345850 5.902679 </tool>
+<tool> 87 193 49.763018 4.134949 </tool>
+</frame>
+<frame>
+<PositionIndex> 1632 </PositionIndex>
+<tool> 170 270 92.178219 5.875929 </tool>
+<tool> 90 195 46.614633 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1633 </PositionIndex>
+<tool> 166 272 91.633460 5.926565 </tool>
+<tool> 87 193 50.275288 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1634 </PositionIndex>
+<tool> 166 272 92.373692 5.926565 </tool>
+<tool> 90 194 45.915046 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1635 </PositionIndex>
+<tool> 166 272 95.853947 5.905936 </tool>
+<tool> 88 193 49.857779 4.131307 </tool>
+</frame>
+<frame>
+<PositionIndex> 1636 </PositionIndex>
+<tool> 167 274 92.910484 5.882945 </tool>
+<tool> 88 190 49.221452 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1637 </PositionIndex>
+<tool> 167 274 91.808061 5.928480 </tool>
+<tool> 91 195 50.275288 4.128519 </tool>
+</frame>
+<frame>
+<PositionIndex> 1638 </PositionIndex>
+<tool> 165 278 96.402836 5.899368 </tool>
+<tool> 90 195 50.275288 4.097726 </tool>
+</frame>
+<frame>
+<PositionIndex> 1639 </PositionIndex>
+<tool> 165 278 95.853947 5.924415 </tool>
+<tool> 91 197 49.572953 4.135456 </tool>
+</frame>
+<frame>
+<PositionIndex> 1640 </PositionIndex>
+<tool> 163 282 97.867565 5.912294 </tool>
+<tool> 93 196 47.385768 4.116604 </tool>
+</frame>
+<frame>
+<PositionIndex> 1641 </PositionIndex>
+<tool> 163 281 97.141432 5.905936 </tool>
+<tool> 92 197 51.139645 4.113970 </tool>
+</frame>
+<frame>
+<PositionIndex> 1642 </PositionIndex>
+<tool> 164 280 96.955572 5.908852 </tool>
+<tool> 94 196 45.383279 4.120789 </tool>
+</frame>
+<frame>
+<PositionIndex> 1643 </PositionIndex>
+<tool> 166 284 103.286313 5.882945 </tool>
+<tool> 90 195 47.612903 4.120950 </tool>
+</frame>
+<frame>
+<PositionIndex> 1644 </PositionIndex>
+<tool> 165 280 97.867565 5.930195 </tool>
+<tool> 93 193 50.679380 4.140195 </tool>
+</frame>
+<frame>
+<PositionIndex> 1645 </PositionIndex>
+<tool> 166 283 101.911083 5.924415 </tool>
+<tool> 95 195 49.948985 4.093745 </tool>
+</frame>
+<frame>
+<PositionIndex> 1646 </PositionIndex>
+<tool> 167 281 96.955572 5.940161 </tool>
+<tool> 95 196 48.587199 4.120613 </tool>
+</frame>
+<frame>
+<PositionIndex> 1647 </PositionIndex>
+<tool> 168 279 97.717595 5.918450 </tool>
+<tool> 98 197 45.631470 4.128118 </tool>
+</frame>
+<frame>
+<PositionIndex> 1648 </PositionIndex>
+<tool> 169 276 97.686538 5.956087 </tool>
+<tool> 99 199 42.676432 4.099182 </tool>
+</frame>
+<frame>
+<PositionIndex> 1649 </PositionIndex>
+<tool> 169 272 97.224693 6.009526 </tool>
+<tool> 99 200 44.220618 4.082586 </tool>
+</frame>
+<frame>
+<PositionIndex> 1650 </PositionIndex>
+<tool> 171 272 96.226061 5.944862 </tool>
+<tool> 95 195 51.284479 4.072301 </tool>
+</frame>
+<frame>
+<PositionIndex> 1651 </PositionIndex>
+<tool> 169 273 97.783128 5.961435 </tool>
+<tool> 97 196 48.333260 4.078006 </tool>
+</frame>
+<frame>
+<PositionIndex> 1652 </PositionIndex>
+<tool> 169 271 98.238915 5.940161 </tool>
+<tool> 99 197 45.349837 4.075319 </tool>
+</frame>
+<frame>
+<PositionIndex> 1653 </PositionIndex>
+<tool> 168 269 98.829150 5.940161 </tool>
+<tool> 99 195 45.171059 4.112339 </tool>
+</frame>
+<frame>
+<PositionIndex> 1654 </PositionIndex>
+<tool> 170 268 99.059154 5.934414 </tool>
+<tool> 98 197 44.924077 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 1655 </PositionIndex>
+<tool> 172 266 101.451854 5.972187 </tool>
+<tool> 101 195 45.782684 4.053583 </tool>
+</frame>
+<frame>
+<PositionIndex> 1656 </PositionIndex>
+<tool> 173 264 99.617458 5.950566 </tool>
+<tool> 101 194 45.070185 4.074069 </tool>
+</frame>
+<frame>
+<PositionIndex> 1657 </PositionIndex>
+<tool> 173 264 102.972471 5.928480 </tool>
+<tool> 102 193 45.171059 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 1658 </PositionIndex>
+<tool> 172 261 100.335753 5.924415 </tool>
+<tool> 103 195 45.223275 4.021943 </tool>
+</frame>
+<frame>
+<PositionIndex> 1659 </PositionIndex>
+<tool> 173 262 100.176016 5.940161 </tool>
+<tool> 102 194 44.361442 4.044723 </tool>
+</frame>
+<frame>
+<PositionIndex> 1660 </PositionIndex>
+<tool> 174 265 100.692979 5.889735 </tool>
+<tool> 103 193 45.223275 4.088366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1661 </PositionIndex>
+<tool> 174 261 96.352112 5.977306 </tool>
+<tool> 103 196 44.361442 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1662 </PositionIndex>
+<tool> 175 261 102.412705 5.902679 </tool>
+<tool> 102 195 45.631470 4.049659 </tool>
+</frame>
+<frame>
+<PositionIndex> 1663 </PositionIndex>
+<tool> 174 261 103.232439 5.880531 </tool>
+<tool> 104 195 43.521282 4.065631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1664 </PositionIndex>
+<tool> 176 257 101.853172 5.876215 </tool>
+<tool> 106 196 41.713607 4.020055 </tool>
+</frame>
+<frame>
+<PositionIndex> 1665 </PositionIndex>
+<tool> 177 255 99.006385 5.945729 </tool>
+<tool> 102 192 44.509396 4.090357 </tool>
+</frame>
+<frame>
+<PositionIndex> 1666 </PositionIndex>
+<tool> 178 253 98.017306 5.912294 </tool>
+<tool> 102 192 41.713607 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1667 </PositionIndex>
+<tool> 176 254 102.728257 5.924415 </tool>
+<tool> 105 190 42.605271 4.132825 </tool>
+</frame>
+<frame>
+<PositionIndex> 1668 </PositionIndex>
+<tool> 176 254 101.451854 5.908852 </tool>
+<tool> 103 190 44.649310 4.128753 </tool>
+</frame>
+<frame>
+<PositionIndex> 1669 </PositionIndex>
+<tool> 177 252 104.918580 5.920641 </tool>
+<tool> 104 191 44.664409 4.116604 </tool>
+</frame>
+<frame>
+<PositionIndex> 1670 </PositionIndex>
+<tool> 175 252 105.282673 5.924415 </tool>
+<tool> 106 192 43.237601 4.100487 </tool>
+</frame>
+<frame>
+<PositionIndex> 1671 </PositionIndex>
+<tool> 176 251 104.005203 5.930195 </tool>
+<tool> 106 190 42.434794 4.093745 </tool>
+</frame>
+<frame>
+<PositionIndex> 1672 </PositionIndex>
+<tool> 178 250 100.838524 5.890845 </tool>
+<tool> 105 190 43.334961 4.078756 </tool>
+</frame>
+<frame>
+<PositionIndex> 1673 </PositionIndex>
+<tool> 177 250 104.503225 5.914836 </tool>
+<tool> 105 191 41.693396 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1674 </PositionIndex>
+<tool> 176 250 106.486270 5.914836 </tool>
+<tool> 105 190 44.664409 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1675 </PositionIndex>
+<tool> 176 249 101.559802 5.930195 </tool>
+<tool> 105 192 43.960629 4.042750 </tool>
+</frame>
+<frame>
+<PositionIndex> 1676 </PositionIndex>
+<tool> 181 247 100.838524 5.899658 </tool>
+<tool> 106 190 46.090938 4.078756 </tool>
+</frame>
+<frame>
+<PositionIndex> 1677 </PositionIndex>
+<tool> 181 248 105.338699 5.924415 </tool>
+<tool> 105 192 42.391074 4.001480 </tool>
+</frame>
+<frame>
+<PositionIndex> 1678 </PositionIndex>
+<tool> 181 244 103.612220 5.966616 </tool>
+<tool> 106 192 43.548387 4.086128 </tool>
+</frame>
+<frame>
+<PositionIndex> 1679 </PositionIndex>
+<tool> 182 244 100.019395 5.956359 </tool>
+<tool> 104 189 46.690515 4.133865 </tool>
+</frame>
+<frame>
+<PositionIndex> 1680 </PositionIndex>
+<tool> 181 244 105.626361 5.911476 </tool>
+<tool> 103 193 48.998333 4.074840 </tool>
+</frame>
+<frame>
+<PositionIndex> 1681 </PositionIndex>
+<tool> 177 245 109.509739 5.946510 </tool>
+<tool> 101 192 47.517213 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1682 </PositionIndex>
+<tool> 179 246 105.120831 5.890845 </tool>
+<tool> 103 193 46.247941 4.166734 </tool>
+</frame>
+<frame>
+<PositionIndex> 1683 </PositionIndex>
+<tool> 181 246 108.524740 5.914836 </tool>
+<tool> 102 193 48.123540 4.133315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1684 </PositionIndex>
+<tool> 186 242 103.687034 5.876215 </tool>
+<tool> 105 193 43.206399 4.115729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1685 </PositionIndex>
+<tool> 190 237 99.617458 5.905655 </tool>
+<tool> 104 191 48.179555 4.116190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1686 </PositionIndex>
+<tool> 189 236 104.403165 5.931741 </tool>
+<tool> 107 193 42.771128 4.115212 </tool>
+</frame>
+<frame>
+<PositionIndex> 1687 </PositionIndex>
+<tool> 189 237 102.568959 5.920641 </tool>
+<tool> 106 189 51.323909 4.119692 </tool>
+</frame>
+<frame>
+<PositionIndex> 1688 </PositionIndex>
+<tool> 191 237 105.902101 5.882392 </tool>
+<tool> 106 192 43.714522 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1689 </PositionIndex>
+<tool> 191 235 104.775485 5.926273 </tool>
+<tool> 107 192 43.979799 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1690 </PositionIndex>
+<tool> 192 234 101.559802 5.926273 </tool>
+<tool> 105 189 47.431993 4.081310 </tool>
+</frame>
+<frame>
+<PositionIndex> 1691 </PositionIndex>
+<tool> 191 233 101.723995 5.941235 </tool>
+<tool> 107 190 45.664706 4.115729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1692 </PositionIndex>
+<tool> 198 231 99.220689 5.890845 </tool>
+<tool> 106 188 48.081487 4.119962 </tool>
+</frame>
+<frame>
+<PositionIndex> 1693 </PositionIndex>
+<tool> 199 224 99.865904 5.902679 </tool>
+<tool> 104 187 47.881227 4.075319 </tool>
+</frame>
+<frame>
+<PositionIndex> 1694 </PositionIndex>
+<tool> 203 217 95.672634 5.950566 </tool>
+<tool> 106 185 46.834711 4.114631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1695 </PositionIndex>
+<tool> 205 215 94.436540 5.918450 </tool>
+<tool> 107 186 48.039396 4.075881 </tool>
+</frame>
+<frame>
+<PositionIndex> 1696 </PositionIndex>
+<tool> 206 219 95.948868 5.889735 </tool>
+<tool> 106 186 50.542818 4.072033 </tool>
+</frame>
+<frame>
+<PositionIndex> 1697 </PositionIndex>
+<tool> 201 220 93.829455 5.924415 </tool>
+<tool> 105 187 48.860523 4.129016 </tool>
+</frame>
+<frame>
+<PositionIndex> 1698 </PositionIndex>
+<tool> 199 227 95.147883 5.899368 </tool>
+<tool> 104 189 47.690731 4.103226 </tool>
+</frame>
+<frame>
+<PositionIndex> 1699 </PositionIndex>
+<tool> 197 226 94.195250 5.912294 </tool>
+<tool> 102 188 48.874321 4.080698 </tool>
+</frame>
+<frame>
+<PositionIndex> 1700 </PositionIndex>
+<tool> 197 224 87.413617 5.932871 </tool>
+<tool> 101 189 47.232548 4.097726 </tool>
+</frame>
+<frame>
+<PositionIndex> 1701 </PositionIndex>
+<tool> 198 224 87.669728 5.937630 </tool>
+<tool> 100 189 49.763018 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1702 </PositionIndex>
+<tool> 194 226 89.443859 5.920038 </tool>
+<tool> 99 189 48.455178 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1703 </PositionIndex>
+<tool> 198 229 87.261135 5.924415 </tool>
+<tool> 99 190 46.440725 4.088366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1704 </PositionIndex>
+<tool> 197 231 89.504149 5.926565 </tool>
+<tool> 98 190 48.943255 4.089718 </tool>
+</frame>
+<frame>
+<PositionIndex> 1705 </PositionIndex>
+<tool> 198 234 87.454106 5.924415 </tool>
+<tool> 98 189 46.014068 4.106844 </tool>
+</frame>
+<frame>
+<PositionIndex> 1706 </PositionIndex>
+<tool> 197 236 87.556208 5.961435 </tool>
+<tool> 97 189 44.924077 4.082355 </tool>
+</frame>
+<frame>
+<PositionIndex> 1706 </PositionIndex>
+<tool> 199 233 88.180896 5.943893 </tool>
+<tool> 97 189 46.802638 4.061312 </tool>
+</frame>
+<frame>
+<PositionIndex> 1707 </PositionIndex>
+<tool> 197 236 88.749481 5.936124 </tool>
+<tool> 98 188 43.949124 4.113214 </tool>
+</frame>
+<frame>
+<PositionIndex> 1708 </PositionIndex>
+<tool> 197 240 90.627159 5.993682 </tool>
+<tool> 97 186 47.573942 4.085081 </tool>
+</frame>
+<frame>
+<PositionIndex> 1709 </PositionIndex>
+<tool> 199 245 88.326798 5.937630 </tool>
+<tool> 96 188 49.214602 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 1710 </PositionIndex>
+<tool> 206 252 92.716142 5.875929 </tool>
+<tool> 98 191 45.383279 4.086128 </tool>
+</frame>
+<frame>
+<PositionIndex> 1711 </PositionIndex>
+<tool> 206 258 90.112313 5.931141 </tool>
+<tool> 100 190 46.277092 4.115212 </tool>
+</frame>
+<frame>
+<PositionIndex> 1712 </PositionIndex>
+<tool> 206 261 92.329884 5.924415 </tool>
+<tool> 101 193 44.106106 4.086128 </tool>
+</frame>
+<frame>
+<PositionIndex> 1713 </PositionIndex>
+<tool> 209 263 87.867557 5.895662 </tool>
+<tool> 101 192 46.277092 4.132825 </tool>
+</frame>
+<frame>
+<PositionIndex> 1714 </PositionIndex>
+<tool> 210 266 84.642850 5.955065 </tool>
+<tool> 100 192 47.028674 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1715 </PositionIndex>
+<tool> 216 262 86.477151 5.868678 </tool>
+<tool> 102 191 47.007162 4.119386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1716 </PositionIndex>
+<tool> 219 261 91.168687 5.926565 </tool>
+<tool> 100 188 50.699334 4.119386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1717 </PositionIndex>
+<tool> 224 254 78.961338 5.913852 </tool>
+<tool> 102 191 46.831111 4.040783 </tool>
+</frame>
+<frame>
+<PositionIndex> 1718 </PositionIndex>
+<tool> 224 260 76.471210 5.941235 </tool>
+<tool> 104 190 45.826847 4.077362 </tool>
+</frame>
+<frame>
+<PositionIndex> 1719 </PositionIndex>
+<tool> 225 264 71.918007 5.908852 </tool>
+<tool> 105 192 45.171059 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1720 </PositionIndex>
+<tool> 228 269 77.094723 5.920038 </tool>
+<tool> 109 190 47.559766 4.108083 </tool>
+</frame>
+<frame>
+<PositionIndex> 1721 </PositionIndex>
+<tool> 229 268 72.997513 5.905936 </tool>
+<tool> 108 188 47.658908 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1722 </PositionIndex>
+<tool> 228 267 75.304999 5.951126 </tool>
+<tool> 109 192 48.176056 4.085081 </tool>
+</frame>
+<frame>
+<PositionIndex> 1723 </PositionIndex>
+<tool> 235 267 65.241886 5.855237 </tool>
+<tool> 109 191 48.666933 4.080698 </tool>
+</frame>
+<frame>
+<PositionIndex> 1724 </PositionIndex>
+<tool> 234 269 76.365325 5.934414 </tool>
+<tool> 115 191 46.149420 4.115729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1725 </PositionIndex>
+<tool> 235 264 74.542266 5.878294 </tool>
+<tool> 114 191 44.856483 4.088366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1726 </PositionIndex>
+<tool> 234 263 74.268125 5.864961 </tool>
+<tool> 113 192 46.831111 4.105084 </tool>
+</frame>
+<frame>
+<PositionIndex> 1727 </PositionIndex>
+<tool> 232 260 76.864788 5.826340 </tool>
+<tool> 113 191 46.284376 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1728 </PositionIndex>
+<tool> 222 262 78.074646 5.896848 </tool>
+<tool> 112 193 46.639941 4.119386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1729 </PositionIndex>
+<tool> 214 260 76.347663 5.860331 </tool>
+<tool> 108 194 42.991275 4.088366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1730 </PositionIndex>
+<tool> 204 266 85.849128 5.872468 </tool>
+<tool> 109 196 45.223275 4.072301 </tool>
+</frame>
+<frame>
+<PositionIndex> 1731 </PositionIndex>
+<tool> 202 268 79.200085 5.891780 </tool>
+<tool> 106 197 45.940739 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1732 </PositionIndex>
+<tool> 187 262 82.861543 5.858991 </tool>
+<tool> 108 197 42.231708 4.149073 </tool>
+</frame>
+<frame>
+<PositionIndex> 1733 </PositionIndex>
+<tool> 169 277 98.307530 5.922349 </tool>
+<tool> 107 198 46.639941 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1734 </PositionIndex>
+<tool> 164 279 94.071684 5.878294 </tool>
+<tool> 107 195 45.398135 4.143076 </tool>
+</frame>
+<frame>
+<PositionIndex> 1735 </PositionIndex>
+<tool> 149 295 107.046782 5.856558 </tool>
+<tool> 107 196 46.831111 4.129016 </tool>
+</frame>
+<frame>
+<PositionIndex> 1736 </PositionIndex>
+<tool> 146 299 98.161667 5.874277 </tool>
+<tool> 104 197 47.057341 4.114631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1737 </PositionIndex>
+<tool> 144 295 100.411329 5.902679 </tool>
+<tool> 105 196 47.616444 4.129312 </tool>
+</frame>
+<frame>
+<PositionIndex> 1738 </PositionIndex>
+<tool> 147 281 96.816378 5.889487 </tool>
+<tool> 112 195 42.605271 4.164525 </tool>
+</frame>
+<frame>
+<PositionIndex> 1739 </PositionIndex>
+<tool> 141 287 97.593308 5.911476 </tool>
+<tool> 108 198 47.189701 4.129016 </tool>
+</frame>
+<frame>
+<PositionIndex> 1740 </PositionIndex>
+<tool> 135 296 104.285229 5.914836 </tool>
+<tool> 104 196 47.941041 4.129016 </tool>
+</frame>
+<frame>
+<PositionIndex> 1741 </PositionIndex>
+<tool> 135 299 103.069014 5.899658 </tool>
+<tool> 106 196 44.803839 4.134487 </tool>
+</frame>
+<frame>
+<PositionIndex> 1742 </PositionIndex>
+<tool> 139 299 101.692503 5.878294 </tool>
+<tool> 104 193 48.736160 4.171969 </tool>
+</frame>
+<frame>
+<PositionIndex> 1743 </PositionIndex>
+<tool> 142 300 97.653745 5.902679 </tool>
+<tool> 103 194 47.385768 4.149891 </tool>
+</frame>
+<frame>
+<PositionIndex> 1744 </PositionIndex>
+<tool> 144 306 100.686282 5.916011 </tool>
+<tool> 102 197 49.296740 4.094245 </tool>
+</frame>
+<frame>
+<PositionIndex> 1745 </PositionIndex>
+<tool> 146 309 99.541279 5.899368 </tool>
+<tool> 101 195 46.498766 4.197938 </tool>
+</frame>
+<frame>
+<PositionIndex> 1746 </PositionIndex>
+<tool> 153 306 95.649725 5.882945 </tool>
+<tool> 104 197 48.891564 4.149891 </tool>
+</frame>
+<frame>
+<PositionIndex> 1747 </PositionIndex>
+<tool> 155 303 95.427403 5.909458 </tool>
+<tool> 101 195 50.502779 4.129312 </tool>
+</frame>
+<frame>
+<PositionIndex> 1748 </PositionIndex>
+<tool> 159 302 94.860432 5.906276 </tool>
+<tool> 105 198 43.656640 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1749 </PositionIndex>
+<tool> 160 301 90.136629 5.861180 </tool>
+<tool> 104 197 45.782684 4.113214 </tool>
+</frame>
+<frame>
+<PositionIndex> 1750 </PositionIndex>
+<tool> 161 303 94.815995 5.920038 </tool>
+<tool> 104 195 47.378653 4.214567 </tool>
+</frame>
+<frame>
+<PositionIndex> 1751 </PositionIndex>
+<tool> 167 300 91.163139 5.913279 </tool>
+<tool> 104 195 50.312158 4.144284 </tool>
+</frame>
+<frame>
+<PositionIndex> 1752 </PositionIndex>
+<tool> 168 295 87.268862 5.920038 </tool>
+<tool> 104 195 50.127538 4.130036 </tool>
+</frame>
+<frame>
+<PositionIndex> 1753 </PositionIndex>
+<tool> 169 295 89.449513 5.873058 </tool>
+<tool> 106 195 47.378653 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1754 </PositionIndex>
+<tool> 167 292 89.955036 5.910198 </tool>
+<tool> 106 196 46.831111 4.139929 </tool>
+</frame>
+<frame>
+<PositionIndex> 1755 </PositionIndex>
+<tool> 168 289 85.559990 5.891485 </tool>
+<tool> 108 197 47.218270 4.144284 </tool>
+</frame>
+<frame>
+<PositionIndex> 1756 </PositionIndex>
+<tool> 171 284 83.413068 5.854921 </tool>
+<tool> 108 193 44.826408 4.190955 </tool>
+</frame>
+<frame>
+<PositionIndex> 1757 </PositionIndex>
+<tool> 172 282 83.135735 5.828883 </tool>
+<tool> 107 194 45.383279 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1758 </PositionIndex>
+<tool> 170 281 79.871958 5.867121 </tool>
+<tool> 108 194 45.940739 4.109159 </tool>
+</frame>
+<frame>
+<PositionIndex> 1759 </PositionIndex>
+<tool> 169 281 79.802279 5.902679 </tool>
+<tool> 105 194 48.113030 4.138948 </tool>
+</frame>
+<frame>
+<PositionIndex> 1760 </PositionIndex>
+<tool> 168 281 79.370179 5.898581 </tool>
+<tool> 105 194 46.455242 4.098619 </tool>
+</frame>
+<frame>
+<PositionIndex> 1761 </PositionIndex>
+<tool> 168 282 77.669837 5.902679 </tool>
+<tool> 105 194 45.070185 4.149891 </tool>
+</frame>
+<frame>
+<PositionIndex> 1762 </PositionIndex>
+<tool> 171 281 78.455884 5.906695 </tool>
+<tool> 108 196 46.050689 4.129312 </tool>
+</frame>
+<frame>
+<PositionIndex> 1763 </PositionIndex>
+<tool> 174 281 77.208341 5.873058 </tool>
+<tool> 106 195 48.025358 4.061312 </tool>
+</frame>
+<frame>
+<PositionIndex> 1764 </PositionIndex>
+<tool> 171 284 79.012558 5.929188 </tool>
+<tool> 105 193 46.105566 4.087754 </tool>
+</frame>
+<frame>
+<PositionIndex> 1765 </PositionIndex>
+<tool> 170 285 73.393640 5.894867 </tool>
+<tool> 106 194 46.480636 4.086128 </tool>
+</frame>
+<frame>
+<PositionIndex> 1766 </PositionIndex>
+<tool> 170 286 75.628893 5.929188 </tool>
+<tool> 106 192 48.843269 4.118639 </tool>
+</frame>
+<frame>
+<PositionIndex> 1767 </PositionIndex>
+<tool> 173 284 76.418286 5.910198 </tool>
+<tool> 105 194 47.371536 4.085081 </tool>
+</frame>
+<frame>
+<PositionIndex> 1768 </PositionIndex>
+<tool> 175 284 73.191238 5.891485 </tool>
+<tool> 105 194 46.342614 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1769 </PositionIndex>
+<tool> 172 291 84.845750 5.902679 </tool>
+<tool> 108 193 44.664409 4.118639 </tool>
+</frame>
+<frame>
+<PositionIndex> 1770 </PositionIndex>
+<tool> 170 290 82.355464 5.913279 </tool>
+<tool> 105 192 45.915046 4.075881 </tool>
+</frame>
+<frame>
+<PositionIndex> 1771 </PositionIndex>
+<tool> 170 290 78.171747 5.906276 </tool>
+<tool> 105 192 44.653085 4.149891 </tool>
+</frame>
+<frame>
+<PositionIndex> 1772 </PositionIndex>
+<tool> 174 288 82.396392 5.819538 </tool>
+<tool> 105 191 47.941041 4.104587 </tool>
+</frame>
+<frame>
+<PositionIndex> 1773 </PositionIndex>
+<tool> 174 284 77.669837 5.888394 </tool>
+<tool> 108 190 43.517408 4.119386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1774 </PositionIndex>
+<tool> 174 284 77.944990 5.837080 </tool>
+<tool> 109 189 46.484263 4.114631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1775 </PositionIndex>
+<tool> 169 288 79.078670 5.888394 </tool>
+<tool> 105 192 47.178983 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 1776 </PositionIndex>
+<tool> 167 291 82.851371 5.852047 </tool>
+<tool> 104 190 45.723733 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1777 </PositionIndex>
+<tool> 165 292 84.051270 5.862989 </tool>
+<tool> 105 194 48.308840 4.032480 </tool>
+</frame>
+<frame>
+<PositionIndex> 1778 </PositionIndex>
+<tool> 166 289 80.878681 5.910198 </tool>
+<tool> 104 189 46.661622 4.094245 </tool>
+</frame>
+<frame>
+<PositionIndex> 1779 </PositionIndex>
+<tool> 169 285 81.670998 5.895662 </tool>
+<tool> 104 188 46.277092 4.115729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1780 </PositionIndex>
+<tool> 166 288 80.374798 5.888394 </tool>
+<tool> 104 188 47.463968 4.119692 </tool>
+</frame>
+<frame>
+<PositionIndex> 1781 </PositionIndex>
+<tool> 167 289 79.166022 5.845394 </tool>
+<tool> 105 189 45.550123 4.119386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1782 </PositionIndex>
+<tool> 166 290 80.074315 5.843343 </tool>
+<tool> 105 190 48.179555 4.158081 </tool>
+</frame>
+<frame>
+<PositionIndex> 1783 </PositionIndex>
+<tool> 167 289 70.724392 5.920038 </tool>
+<tool> 104 190 45.631470 4.109159 </tool>
+</frame>
+<frame>
+<PositionIndex> 1784 </PositionIndex>
+<tool> 167 285 70.876775 5.899016 </tool>
+<tool> 102 187 44.270148 4.146905 </tool>
+</frame>
+<frame>
+<PositionIndex> 1785 </PositionIndex>
+<tool> 167 283 72.310724 5.880864 </tool>
+<tool> 102 187 46.342614 4.144284 </tool>
+</frame>
+<frame>
+<PositionIndex> 1786 </PositionIndex>
+<tool> 165 284 67.644538 5.902679 </tool>
+<tool> 102 187 49.395808 4.094245 </tool>
+</frame>
+<frame>
+<PositionIndex> 1787 </PositionIndex>
+<tool> 166 281 70.267661 5.847832 </tool>
+<tool> 104 186 43.093104 4.133315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1788 </PositionIndex>
+<tool> 168 277 66.356336 5.819538 </tool>
+<tool> 102 186 48.496908 4.096092 </tool>
+</frame>
+<frame>
+<PositionIndex> 1789 </PositionIndex>
+<tool> 169 274 70.609890 5.894867 </tool>
+<tool> 105 187 48.308840 4.146905 </tool>
+</frame>
+<frame>
+<PositionIndex> 1790 </PositionIndex>
+<tool> 169 273 66.216465 5.890127 </tool>
+<tool> 102 186 44.924077 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 1791 </PositionIndex>
+<tool> 171 272 67.798870 5.837884 </tool>
+<tool> 102 186 45.487165 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1792 </PositionIndex>
+<tool> 169 271 68.751918 5.850778 </tool>
+<tool> 102 184 47.057341 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1793 </PositionIndex>
+<tool> 173 267 63.130310 5.778324 </tool>
+<tool> 104 184 47.559766 4.073003 </tool>
+</frame>
+<frame>
+<PositionIndex> 1794 </PositionIndex>
+<tool> 172 265 65.551213 5.860331 </tool>
+<tool> 104 183 46.661622 4.138948 </tool>
+</frame>
+<frame>
+<PositionIndex> 1795 </PositionIndex>
+<tool> 173 262 62.712366 5.860331 </tool>
+<tool> 104 186 43.548387 4.087754 </tool>
+</frame>
+<frame>
+<PositionIndex> 1796 </PositionIndex>
+<tool> 175 260 63.524279 5.862522 </tool>
+<tool> 108 184 40.395547 4.084760 </tool>
+</frame>
+<frame>
+<PositionIndex> 1797 </PositionIndex>
+<tool> 178 258 63.314290 5.860331 </tool>
+<tool> 106 184 48.025358 4.094245 </tool>
+</frame>
+<frame>
+<PositionIndex> 1798 </PositionIndex>
+<tool> 178 257 60.621135 5.867121 </tool>
+<tool> 108 186 42.271606 4.014998 </tool>
+</frame>
+<frame>
+<PositionIndex> 1799 </PositionIndex>
+<tool> 183 256 63.775882 5.862522 </tool>
+<tool> 111 184 44.220618 4.096092 </tool>
+</frame>
+<frame>
+<PositionIndex> 1800 </PositionIndex>
+<tool> 184 256 61.857108 5.819538 </tool>
+<tool> 109 183 44.106106 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1800 </PositionIndex>
+<tool> 180 257 64.242786 5.907224 </tool>
+<tool> 108 184 45.505034 4.111315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1801 </PositionIndex>
+<tool> 179 257 68.114392 5.884663 </tool>
+<tool> 106 185 46.161036 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1802 </PositionIndex>
+<tool> 178 257 65.608034 5.907224 </tool>
+<tool> 106 185 47.165620 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1803 </PositionIndex>
+<tool> 179 256 64.287245 5.930195 </tool>
+<tool> 109 185 42.198306 4.111315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1804 </PositionIndex>
+<tool> 181 255 65.719732 5.916011 </tool>
+<tool> 110 183 46.566840 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1805 </PositionIndex>
+<tool> 183 256 68.803798 5.893869 </tool>
+<tool> 110 182 49.116428 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1806 </PositionIndex>
+<tool> 206 189 128.505024 5.987744 </tool>
+</frame>
+<frame>
+<PositionIndex> 1805 </PositionIndex>
+<tool> 181 255 64.110907 5.916011 </tool>
+<tool> 114 183 42.145374 4.156223 </tool>
+</frame>
+<frame>
+<PositionIndex> 1806 </PositionIndex>
+<tool> 186 257 69.667406 5.862522 </tool>
+<tool> 114 183 45.545551 4.171969 </tool>
+</frame>
+<frame>
+<PositionIndex> 1807 </PositionIndex>
+<tool> 183 255 70.180469 5.926966 </tool>
+<tool> 114 185 47.706786 4.116979 </tool>
+</frame>
+<frame>
+<PositionIndex> 1808 </PositionIndex>
+<tool> 181 258 70.543044 5.954136 </tool>
+<tool> 116 190 38.487098 4.033726 </tool>
+</frame>
+<frame>
+<PositionIndex> 1809 </PositionIndex>
+<tool> 183 259 72.533388 5.890127 </tool>
+<tool> 117 190 42.322813 4.013729 </tool>
+</frame>
+<frame>
+<PositionIndex> 1810 </PositionIndex>
+<tool> 182 257 76.268751 5.947547 </tool>
+<tool> 118 191 41.654476 4.131009 </tool>
+</frame>
+<frame>
+<PositionIndex> 1811 </PositionIndex>
+<tool> 183 256 75.899916 5.968428 </tool>
+<tool> 118 191 41.111209 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1812 </PositionIndex>
+<tool> 185 256 74.652324 5.940161 </tool>
+<tool> 120 193 43.243346 4.099182 </tool>
+</frame>
+<frame>
+<PositionIndex> 1813 </PositionIndex>
+<tool> 184 259 76.483778 5.940161 </tool>
+<tool> 125 196 39.854795 4.085646 </tool>
+</frame>
+<frame>
+<PositionIndex> 1814 </PositionIndex>
+<tool> 185 263 74.543315 5.898581 </tool>
+<tool> 132 200 34.242789 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 1815 </PositionIndex>
+<tool> 183 266 80.918629 5.919206 </tool>
+<tool> 130 199 38.241889 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1816 </PositionIndex>
+<tool> 184 263 76.870556 5.919206 </tool>
+<tool> 132 201 34.293970 4.108083 </tool>
+</frame>
+<frame>
+<PositionIndex> 1817 </PositionIndex>
+<tool> 185 260 76.610840 5.940161 </tool>
+<tool> 131 200 38.241889 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 1818 </PositionIndex>
+<tool> 188 260 75.190753 5.906695 </tool>
+<tool> 132 200 39.874794 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1819 </PositionIndex>
+<tool> 188 261 73.615644 5.934414 </tool>
+<tool> 133 202 35.612307 4.099851 </tool>
+</frame>
+<frame>
+<PositionIndex> 1820 </PositionIndex>
+<tool> 191 261 71.770985 5.906695 </tool>
+<tool> 135 202 36.251303 4.086904 </tool>
+</frame>
+<frame>
+<PositionIndex> 1821 </PositionIndex>
+<tool> 188 264 78.268317 5.947547 </tool>
+<tool> 133 201 37.543387 4.111315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1822 </PositionIndex>
+<tool> 187 264 71.081196 5.919206 </tool>
+<tool> 136 203 37.750916 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1823 </PositionIndex>
+<tool> 188 264 72.372738 5.890127 </tool>
+<tool> 134 202 37.940503 4.142349 </tool>
+</frame>
+<frame>
+<PositionIndex> 1824 </PositionIndex>
+<tool> 188 262 73.405249 5.919206 </tool>
+<tool> 134 202 33.693592 4.063393 </tool>
+</frame>
+<frame>
+<PositionIndex> 1825 </PositionIndex>
+<tool> 187 262 75.899916 5.940161 </tool>
+<tool> 135 201 36.079359 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1826 </PositionIndex>
+<tool> 188 263 76.252024 5.919206 </tool>
+<tool> 135 202 36.444317 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1827 </PositionIndex>
+<tool> 189 260 73.777910 5.914489 </tool>
+<tool> 134 201 37.940503 4.058306 </tool>
+</frame>
+<frame>
+<PositionIndex> 1828 </PositionIndex>
+<tool> 189 260 73.777910 5.914489 </tool>
+<tool> 134 202 36.965597 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1829 </PositionIndex>
+<tool> 189 259 74.157300 5.934414 </tool>
+<tool> 134 200 38.404152 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1830 </PositionIndex>
+<tool> 187 259 76.483778 5.921982 </tool>
+<tool> 132 202 38.487098 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1831 </PositionIndex>
+<tool> 185 259 81.137054 5.919206 </tool>
+<tool> 131 200 37.543387 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 1832 </PositionIndex>
+<tool> 187 257 78.209216 5.914489 </tool>
+<tool> 132 200 36.457440 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1833 </PositionIndex>
+<tool> 185 255 72.328662 5.954632 </tool>
+<tool> 131 199 39.650236 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 1834 </PositionIndex>
+<tool> 189 252 77.414153 5.898581 </tool>
+<tool> 132 198 40.959671 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1835 </PositionIndex>
+<tool> 189 252 77.808602 5.906695 </tool>
+<tool> 132 199 39.722553 4.041245 </tool>
+</frame>
+<frame>
+<PositionIndex> 1836 </PositionIndex>
+<tool> 189 252 79.895406 5.954632 </tool>
+<tool> 133 200 37.394447 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1837 </PositionIndex>
+<tool> 190 251 74.699298 5.894867 </tool>
+<tool> 134 198 39.468861 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1838 </PositionIndex>
+<tool> 192 248 74.788893 5.894867 </tool>
+<tool> 133 198 37.670581 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1839 </PositionIndex>
+<tool> 191 247 79.511310 5.941570 </tool>
+<tool> 135 198 38.899178 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1840 </PositionIndex>
+<tool> 193 247 75.400396 5.883670 </tool>
+<tool> 136 198 41.227397 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1841 </PositionIndex>
+<tool> 191 249 74.859215 5.921982 </tool>
+<tool> 138 199 32.893815 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 1842 </PositionIndex>
+<tool> 191 248 82.505056 5.929188 </tool>
+<tool> 136 198 37.000088 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1843 </PositionIndex>
+<tool> 192 251 83.308952 5.936124 </tool>
+<tool> 138 199 35.773126 4.044100 </tool>
+</frame>
+<frame>
+<PositionIndex> 1844 </PositionIndex>
+<tool> 192 251 81.525225 5.902679 </tool>
+<tool> 139 199 38.652457 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1845 </PositionIndex>
+<tool> 192 252 81.525225 5.902679 </tool>
+<tool> 138 198 38.087308 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1846 </PositionIndex>
+<tool> 193 253 82.069077 5.910198 </tool>
+<tool> 138 197 38.751334 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1847 </PositionIndex>
+<tool> 192 255 85.092764 5.910198 </tool>
+<tool> 137 198 43.132589 4.073003 </tool>
+</frame>
+<frame>
+<PositionIndex> 1848 </PositionIndex>
+<tool> 192 256 82.725075 5.880864 </tool>
+<tool> 135 199 40.737179 4.081310 </tool>
+</frame>
+<frame>
+<PositionIndex> 1849 </PositionIndex>
+<tool> 190 255 87.813127 5.906276 </tool>
+<tool> 135 200 39.938721 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1850 </PositionIndex>
+<tool> 188 255 85.883578 5.936124 </tool>
+<tool> 135 199 41.944382 4.085081 </tool>
+</frame>
+<frame>
+<PositionIndex> 1851 </PositionIndex>
+<tool> 189 256 86.429522 5.929188 </tool>
+<tool> 135 199 39.140269 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 1852 </PositionIndex>
+<tool> 191 256 87.531233 5.902679 </tool>
+<tool> 134 198 41.974782 4.060520 </tool>
+</frame>
+<frame>
+<PositionIndex> 1853 </PositionIndex>
+</frame>
+<frame>
+<PositionIndex> 1852 </PositionIndex>
+<tool> 190 255 86.562247 5.910198 </tool>
+<tool> 135 198 41.558670 4.073003 </tool>
+</frame>
+<frame>
+<PositionIndex> 1853 </PositionIndex>
+<tool> 190 257 85.077772 5.914489 </tool>
+<tool> 135 198 43.154763 4.076551 </tool>
+</frame>
+<frame>
+<PositionIndex> 1854 </PositionIndex>
+<tool> 191 254 82.588115 5.929188 </tool>
+<tool> 135 198 39.938721 4.055314 </tool>
+</frame>
+<frame>
+<PositionIndex> 1855 </PositionIndex>
+<tool> 189 253 80.126571 5.929188 </tool>
+<tool> 134 198 38.366768 4.064057 </tool>
+</frame>
+<frame>
+<PositionIndex> 1856 </PositionIndex>
+<tool> 193 251 81.905717 5.888394 </tool>
+<tool> 136 197 37.154901 4.017651 </tool>
+</frame>
+<frame>
+<PositionIndex> 1857 </PositionIndex>
+<tool> 191 252 83.959061 5.921982 </tool>
+<tool> 136 198 37.154901 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1858 </PositionIndex>
+<tool> 192 251 84.368268 5.910198 </tool>
+<tool> 136 197 36.744957 4.081988 </tool>
+</frame>
+<frame>
+<PositionIndex> 1859 </PositionIndex>
+<tool> 192 251 81.405835 5.921982 </tool>
+<tool> 135 196 42.742677 4.086904 </tool>
+</frame>
+<frame>
+<PositionIndex> 1860 </PositionIndex>
+<tool> 193 252 86.148654 5.883670 </tool>
+<tool> 136 196 41.597019 4.118639 </tool>
+</frame>
+<frame>
+<PositionIndex> 1861 </PositionIndex>
+<tool> 192 247 83.732763 5.937630 </tool>
+<tool> 135 198 40.426789 4.033726 </tool>
+</frame>
+<frame>
+<PositionIndex> 1862 </PositionIndex>
+<tool> 193 251 85.464835 5.910198 </tool>
+<tool> 135 197 43.154763 4.064578 </tool>
+</frame>
+<frame>
+<PositionIndex> 1863 </PositionIndex>
+<tool> 194 252 86.731544 5.942803 </tool>
+<tool> 139 197 42.727753 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1864 </PositionIndex>
+<tool> 193 247 77.798355 5.949941 </tool>
+<tool> 139 198 41.944382 4.065631 </tool>
+</frame>
+<frame>
+<PositionIndex> 1865 </PositionIndex>
+<tool> 194 248 93.272250 5.913279 </tool>
+<tool> 138 197 39.262291 4.060520 </tool>
+</frame>
+<frame>
+<PositionIndex> 1866 </PositionIndex>
+<tool> 192 246 80.829910 5.937630 </tool>
+<tool> 139 195 41.944382 4.151226 </tool>
+</frame>
+<frame>
+<PositionIndex> 1867 </PositionIndex>
+<tool> 194 246 87.522125 5.913279 </tool>
+<tool> 138 199 41.974782 4.131633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1868 </PositionIndex>
+<tool> 195 248 86.828924 5.920038 </tool>
+<tool> 137 195 47.145332 4.115212 </tool>
+</frame>
+<frame>
+<PositionIndex> 1869 </PositionIndex>
+<tool> 194 244 85.077772 5.984686 </tool>
+<tool> 140 199 36.444317 4.074840 </tool>
+</frame>
+<frame>
+<PositionIndex> 1870 </PositionIndex>
+<tool> 194 246 86.431367 5.967570 </tool>
+<tool> 137 199 40.347830 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 1871 </PositionIndex>
+<tool> 194 246 87.956454 5.943893 </tool>
+<tool> 137 200 36.017435 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 1872 </PositionIndex>
+<tool> 194 247 89.859239 5.961435 </tool>
+<tool> 136 199 41.130596 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1873 </PositionIndex>
+<tool> 194 247 90.835184 5.906276 </tool>
+<tool> 137 198 41.146100 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 1874 </PositionIndex>
+<tool> 194 248 90.284091 5.917438 </tool>
+<tool> 137 199 38.333506 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1875 </PositionIndex>
+<tool> 197 244 83.004081 5.937630 </tool>
+<tool> 137 198 43.526334 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1876 </PositionIndex>
+<tool> 197 243 87.531233 5.913279 </tool>
+<tool> 136 197 43.154763 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 1877 </PositionIndex>
+<tool> 203 244 89.162749 5.916011 </tool>
+<tool> 136 202 43.989102 4.119039 </tool>
+</frame>
+<frame>
+<PositionIndex> 1878 </PositionIndex>
+<tool> 188 209 95.035151 5.924415 </tool>
+</frame>
+<frame>
+<PositionIndex> 1879 </PositionIndex>
+<tool> 182 222 101.788137 5.932871 </tool>
+</frame>
+<frame>
+<PositionIndex> 1880 </PositionIndex>
+<tool> 180 226 103.222304 5.902679 </tool>
+</frame>
+<frame>
+<PositionIndex> 1881 </PositionIndex>
+<tool> 170 235 104.288808 5.880531 </tool>
+</frame>
+<frame>
+<PositionIndex> 1882 </PositionIndex>
+<tool> 170 243 105.188503 5.924415 </tool>
+</frame>
+<frame>
+<PositionIndex> 1883 </PositionIndex>
+<tool> 168 257 104.337722 5.914836 </tool>
+</frame>
+<frame>
+<PositionIndex> 1884 </PositionIndex>
+<tool> 164 269 108.217451 5.893477 </tool>
+<tool> 126 190 44.722424 4.139423 </tool>
+</frame>
+<frame>
+<PositionIndex> 1885 </PositionIndex>
+<tool> 161 269 105.895529 5.890845 </tool>
+<tool> 128 190 38.734872 4.064578 </tool>
+</frame>
+<frame>
+<PositionIndex> 1886 </PositionIndex>
+<tool> 159 280 103.222304 5.899658 </tool>
+<tool> 120 185 44.368061 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1887 </PositionIndex>
+<tool> 157 272 102.684898 5.934414 </tool>
+<tool> 119 182 47.145332 4.159095 </tool>
+</frame>
+<frame>
+<PositionIndex> 1888 </PositionIndex>
+<tool> 159 278 99.113524 5.944862 </tool>
+<tool> 119 182 47.145332 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 1889 </PositionIndex>
+<tool> 163 281 94.661955 5.932871 </tool>
+<tool> 116 179 42.326580 4.180665 </tool>
+</frame>
+<frame>
+<PositionIndex> 1890 </PositionIndex>
+<tool> 163 280 94.468054 5.943893 </tool>
+<tool> 114 177 45.935969 4.142349 </tool>
+</frame>
+<frame>
+<PositionIndex> 1891 </PositionIndex>
+<tool> 171 283 90.552133 5.942803 </tool>
+<tool> 114 176 49.155368 4.179545 </tool>
+</frame>
+<frame>
+<PositionIndex> 1892 </PositionIndex>
+<tool> 178 279 85.569247 5.942803 </tool>
+<tool> 114 174 49.953335 4.156223 </tool>
+</frame>
+<frame>
+<PositionIndex> 1893 </PositionIndex>
+<tool> 178 271 83.784162 5.929188 </tool>
+<tool> 114 177 47.006465 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1894 </PositionIndex>
+<tool> 179 270 80.190224 5.921982 </tool>
+<tool> 113 177 45.584044 4.106844 </tool>
+</frame>
+<frame>
+<PositionIndex> 1895 </PositionIndex>
+<tool> 183 268 79.109228 5.954632 </tool>
+<tool> 113 178 50.182626 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1896 </PositionIndex>
+<tool> 183 268 77.152134 5.926966 </tool>
+<tool> 113 176 47.226431 4.153790 </tool>
+</frame>
+<frame>
+<PositionIndex> 1897 </PositionIndex>
+<tool> 183 270 76.433729 5.940161 </tool>
+<tool> 115 179 44.900333 4.116190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1898 </PositionIndex>
+<tool> 180 273 75.554608 5.954136 </tool>
+<tool> 115 179 49.155368 4.116190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1899 </PositionIndex>
+<tool> 181 274 76.277113 5.954136 </tool>
+<tool> 113 178 48.396974 4.115212 </tool>
+</frame>
+<frame>
+<PositionIndex> 1900 </PositionIndex>
+<tool> 185 276 71.253710 5.916011 </tool>
+<tool> 115 180 48.331038 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1901 </PositionIndex>
+<tool> 184 277 72.862379 5.946510 </tool>
+<tool> 115 179 45.584044 4.147820 </tool>
+</frame>
+<frame>
+<PositionIndex> 1902 </PositionIndex>
+<tool> 186 279 74.686489 5.911118 </tool>
+<tool> 113 180 45.963729 4.108640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1903 </PositionIndex>
+<tool> 184 283 68.945015 5.919206 </tool>
+<tool> 114 181 43.570270 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1904 </PositionIndex>
+<tool> 183 290 79.066890 5.894867 </tool>
+<tool> 114 181 49.617053 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1905 </PositionIndex>
+<tool> 178 295 78.019385 5.921982 </tool>
+<tool> 112 183 43.243346 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1906 </PositionIndex>
+<tool> 180 298 72.328662 5.880531 </tool>
+<tool> 111 183 47.976742 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 1907 </PositionIndex>
+<tool> 173 306 83.278324 5.955447 </tool>
+<tool> 114 184 48.449659 4.131633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1908 </PositionIndex>
+<tool> 169 308 79.657565 5.955065 </tool>
+<tool> 112 183 46.347184 4.147820 </tool>
+</frame>
+<frame>
+<PositionIndex> 1909 </PositionIndex>
+<tool> 172 308 88.052479 5.967570 </tool>
+<tool> 113 183 49.246109 4.081310 </tool>
+</frame>
+<frame>
+<PositionIndex> 1910 </PositionIndex>
+<tool> 172 309 87.711386 5.936124 </tool>
+<tool> 114 183 48.023247 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1911 </PositionIndex>
+<tool> 174 308 84.141176 5.949240 </tool>
+<tool> 116 186 43.989102 4.116190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1912 </PositionIndex>
+<tool> 179 303 75.182270 5.924415 </tool>
+<tool> 116 185 46.856979 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1913 </PositionIndex>
+<tool> 180 301 84.865732 5.993682 </tool>
+<tool> 113 183 50.977023 4.108640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1914 </PositionIndex>
+<tool> 180 302 82.750128 5.974255 </tool>
+<tool> 117 185 46.802502 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1915 </PositionIndex>
+<tool> 180 304 83.761322 5.902679 </tool>
+<tool> 114 184 47.287164 4.116979 </tool>
+</frame>
+<frame>
+<PositionIndex> 1916 </PositionIndex>
+<tool> 178 303 80.005093 5.961435 </tool>
+<tool> 114 184 46.129938 4.139423 </tool>
+</frame>
+<frame>
+<PositionIndex> 1917 </PositionIndex>
+<tool> 182 300 78.593589 5.888394 </tool>
+<tool> 115 183 45.935969 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1918 </PositionIndex>
+<tool> 181 300 87.905681 5.955065 </tool>
+<tool> 115 184 46.802502 4.167525 </tool>
+</frame>
+<frame>
+<PositionIndex> 1919 </PositionIndex>
+<tool> 179 299 86.613807 5.906276 </tool>
+<tool> 114 185 47.287164 4.131009 </tool>
+</frame>
+<frame>
+<PositionIndex> 1920 </PositionIndex>
+<tool> 174 300 89.837944 5.902679 </tool>
+<tool> 115 185 48.774376 4.139423 </tool>
+</frame>
+<frame>
+<PositionIndex> 1921 </PositionIndex>
+<tool> 174 299 84.101372 5.949240 </tool>
+<tool> 113 185 50.106312 4.200000 </tool>
+</frame>
+<frame>
+<PositionIndex> 1922 </PositionIndex>
+<tool> 180 292 84.294531 5.986121 </tool>
+<tool> 115 184 46.381574 4.184315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1923 </PositionIndex>
+<tool> 183 281 83.753707 5.949240 </tool>
+<tool> 114 184 49.310821 4.108640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1924 </PositionIndex>
+<tool> 185 278 85.546884 5.993682 </tool>
+<tool> 115 185 49.478677 4.046420 </tool>
+</frame>
+<frame>
+<PositionIndex> 1925 </PositionIndex>
+<tool> 185 275 83.042491 5.955065 </tool>
+<tool> 114 183 46.347184 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 1926 </PositionIndex>
+<tool> 181 275 83.761322 5.948448 </tool>
+<tool> 114 182 48.774376 4.131633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1927 </PositionIndex>
+<tool> 186 277 81.624910 5.921982 </tool>
+<tool> 111 182 50.470934 4.131633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1928 </PositionIndex>
+<tool> 186 275 78.054120 5.948448 </tool>
+<tool> 113 181 46.060757 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1929 </PositionIndex>
+<tool> 187 272 75.554608 5.941570 </tool>
+<tool> 113 178 53.145394 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 1930 </PositionIndex>
+<tool> 189 271 75.023041 5.926966 </tool>
+<tool> 110 179 50.901900 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1931 </PositionIndex>
+<tool> 186 270 73.303087 5.954632 </tool>
+<tool> 108 177 52.008155 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1932 </PositionIndex>
+<tool> 187 276 78.786084 5.886744 </tool>
+<tool> 106 176 43.989102 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1933 </PositionIndex>
+<tool> 188 275 76.471269 5.902679 </tool>
+<tool> 108 176 49.194278 4.064057 </tool>
+</frame>
+<frame>
+<PositionIndex> 1934 </PositionIndex>
+<tool> 184 279 79.709591 5.886744 </tool>
+<tool> 105 174 48.396974 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1935 </PositionIndex>
+<tool> 183 282 76.870556 5.941570 </tool>
+<tool> 105 173 51.549327 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1936 </PositionIndex>
+<tool> 182 287 78.786084 5.910198 </tool>
+<tool> 105 174 48.449659 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1937 </PositionIndex>
+<tool> 183 292 83.479117 5.873058 </tool>
+<tool> 105 176 46.491450 4.049186 </tool>
+</frame>
+<frame>
+<PositionIndex> 1938 </PositionIndex>
+<tool> 181 295 85.395779 5.883670 </tool>
+<tool> 104 173 52.859608 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1939 </PositionIndex>
+<tool> 181 292 85.574837 5.913279 </tool>
+<tool> 106 174 47.179140 4.053583 </tool>
+</frame>
+<frame>
+<PositionIndex> 1940 </PositionIndex>
+<tool> 181 292 87.250257 5.873058 </tool>
+<tool> 106 172 50.042628 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1941 </PositionIndex>
+<tool> 180 290 84.735995 5.942803 </tool>
+<tool> 104 170 53.289209 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1942 </PositionIndex>
+<tool> 180 289 84.294531 5.899016 </tool>
+<tool> 110 173 47.532673 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1943 </PositionIndex>
+<tool> 184 287 82.886821 5.936124 </tool>
+<tool> 108 170 50.369739 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1944 </PositionIndex>
+<tool> 185 284 84.006525 5.936124 </tool>
+<tool> 108 170 50.106312 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1945 </PositionIndex>
+<tool> 187 282 82.022436 5.924415 </tool>
+<tool> 109 169 47.916883 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1946 </PositionIndex>
+<tool> 185 284 81.060377 5.929188 </tool>
+<tool> 111 171 47.145332 4.111315 </tool>
+</frame>
+<frame>
+<PositionIndex> 1947 </PositionIndex>
+<tool> 184 284 82.022436 5.914489 </tool>
+<tool> 109 170 50.789008 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1948 </PositionIndex>
+<tool> 186 281 79.181753 5.910198 </tool>
+<tool> 109 170 48.396974 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1949 </PositionIndex>
+<tool> 189 280 78.654428 5.867121 </tool>
+<tool> 109 170 45.935969 4.041867 </tool>
+</frame>
+<frame>
+<PositionIndex> 1950 </PositionIndex>
+<tool> 187 278 76.870556 5.914489 </tool>
+<tool> 111 169 50.369739 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1951 </PositionIndex>
+<tool> 187 278 75.366553 5.921982 </tool>
+<tool> 111 171 52.925927 4.064057 </tool>
+</frame>
+<frame>
+<PositionIndex> 1952 </PositionIndex>
+<tool> 185 278 76.870556 5.934414 </tool>
+<tool> 113 170 51.549327 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1953 </PositionIndex>
+<tool> 188 278 74.114286 5.934414 </tool>
+<tool> 113 169 53.181384 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 1954 </PositionIndex>
+<tool> 191 274 73.237803 5.902679 </tool>
+<tool> 114 170 54.452407 4.094633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1955 </PositionIndex>
+<tool> 195 266 66.491570 5.938538 </tool>
+<tool> 115 168 48.741675 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 1956 </PositionIndex>
+<tool> 197 262 62.723039 5.888394 </tool>
+<tool> 115 167 48.722043 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1957 </PositionIndex>
+<tool> 196 263 60.212054 5.936646 </tool>
+<tool> 114 168 51.267084 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1958 </PositionIndex>
+<tool> 195 263 60.212054 5.930195 </tool>
+<tool> 111 168 50.414037 4.073475 </tool>
+</frame>
+<frame>
+<PositionIndex> 1959 </PositionIndex>
+<tool> 193 261 58.098878 5.921456 </tool>
+<tool> 110 169 46.734316 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1960 </PositionIndex>
+<tool> 193 258 55.387256 5.945307 </tool>
+<tool> 110 170 51.965216 4.094633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1961 </PositionIndex>
+<tool> 192 256 51.434756 5.938538 </tool>
+<tool> 106 168 51.586431 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1962 </PositionIndex>
+<tool> 190 257 56.210223 5.898028 </tool>
+<tool> 105 169 53.145394 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 1963 </PositionIndex>
+<tool> 191 259 57.325297 5.864961 </tool>
+<tool> 103 166 51.934524 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1964 </PositionIndex>
+<tool> 189 259 58.304344 5.856558 </tool>
+<tool> 105 167 53.181384 4.064057 </tool>
+</frame>
+<frame>
+<PositionIndex> 1965 </PositionIndex>
+<tool> 194 247 47.522609 5.860331 </tool>
+<tool> 105 165 54.311673 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 1966 </PositionIndex>
+<tool> 201 239 40.568527 5.809334 </tool>
+<tool> 105 163 59.183763 4.021052 </tool>
+</frame>
+<frame>
+<PositionIndex> 1967 </PositionIndex>
+<tool> 204 235 37.683277 5.809334 </tool>
+<tool> 105 159 57.113517 4.058306 </tool>
+</frame>
+<frame>
+<PositionIndex> 1968 </PositionIndex>
+<tool> 198 233 38.141692 5.872121 </tool>
+<tool> 103 161 59.981229 4.041867 </tool>
+</frame>
+<frame>
+<PositionIndex> 1969 </PositionIndex>
+<tool> 199 235 43.438328 5.875036 </tool>
+<tool> 105 161 58.386328 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 1970 </PositionIndex>
+<tool> 201 234 40.584245 5.830407 </tool>
+<tool> 104 157 55.539620 4.131633 </tool>
+</frame>
+<frame>
+<PositionIndex> 1971 </PositionIndex>
+<tool> 200 234 41.177089 5.819538 </tool>
+<tool> 106 160 53.978912 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1972 </PositionIndex>
+<tool> 201 233 37.543387 5.862522 </tool>
+<tool> 105 159 57.900944 4.063393 </tool>
+</frame>
+<frame>
+<PositionIndex> 1973 </PositionIndex>
+<tool> 198 233 38.416605 5.888394 </tool>
+<tool> 106 160 57.966997 4.053583 </tool>
+</frame>
+<frame>
+<PositionIndex> 1974 </PositionIndex>
+<tool> 200 233 40.426789 5.898028 </tool>
+<tool> 107 161 54.358625 4.085646 </tool>
+</frame>
+<frame>
+<PositionIndex> 1975 </PositionIndex>
+<tool> 201 236 41.688912 5.831031 </tool>
+<tool> 104 160 58.010990 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 1976 </PositionIndex>
+<tool> 198 236 40.940203 5.902679 </tool>
+<tool> 105 159 55.908734 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 1977 </PositionIndex>
+<tool> 200 234 38.895078 5.888394 </tool>
+<tool> 104 161 56.724137 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1978 </PositionIndex>
+<tool> 201 235 37.965710 5.867693 </tool>
+<tool> 103 160 56.791558 4.063393 </tool>
+</frame>
+<frame>
+<PositionIndex> 1979 </PositionIndex>
+<tool> 202 231 36.374248 5.898028 </tool>
+<tool> 105 161 57.135846 4.028680 </tool>
+</frame>
+<frame>
+<PositionIndex> 1980 </PositionIndex>
+<tool> 204 234 37.227783 5.842006 </tool>
+<tool> 107 162 57.966997 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1981 </PositionIndex>
+<tool> 208 233 34.925130 5.852493 </tool>
+<tool> 108 161 58.304344 4.062519 </tool>
+</frame>
+<frame>
+<PositionIndex> 1982 </PositionIndex>
+<tool> 204 235 38.137511 5.892578 </tool>
+<tool> 110 163 54.305801 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 1983 </PositionIndex>
+<tool> 205 235 37.902662 5.831031 </tool>
+<tool> 109 164 55.110202 4.064057 </tool>
+</frame>
+<frame>
+<PositionIndex> 1984 </PositionIndex>
+<tool> 205 238 40.485907 5.870775 </tool>
+<tool> 109 164 55.925843 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1985 </PositionIndex>
+<tool> 205 241 40.485907 5.881957 </tool>
+<tool> 106 167 57.336421 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1986 </PositionIndex>
+<tool> 205 242 41.929174 5.854407 </tool>
+<tool> 109 167 56.752239 4.095198 </tool>
+</frame>
+<frame>
+<PositionIndex> 1987 </PositionIndex>
+<tool> 205 242 40.193415 5.864961 </tool>
+<tool> 109 167 54.706565 4.051346 </tool>
+</frame>
+<frame>
+<PositionIndex> 1988 </PositionIndex>
+<tool> 208 242 41.006358 5.898028 </tool>
+<tool> 109 167 60.455187 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 1989 </PositionIndex>
+<tool> 207 242 40.058310 5.898028 </tool>
+<tool> 110 167 59.498136 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1990 </PositionIndex>
+<tool> 208 242 41.746243 5.867693 </tool>
+<tool> 111 168 55.925843 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 1991 </PositionIndex>
+<tool> 207 242 40.709772 5.875036 </tool>
+<tool> 110 168 54.305801 4.058306 </tool>
+</frame>
+<frame>
+<PositionIndex> 1992 </PositionIndex>
+<tool> 207 243 44.267323 5.888394 </tool>
+<tool> 108 168 57.588926 4.049186 </tool>
+</frame>
+<frame>
+<PositionIndex> 1993 </PositionIndex>
+<tool> 207 242 40.268717 5.907224 </tool>
+<tool> 111 168 51.916099 4.085646 </tool>
+</frame>
+<frame>
+<PositionIndex> 1994 </PositionIndex>
+<tool> 209 247 42.895350 5.864961 </tool>
+<tool> 113 167 52.310788 4.139423 </tool>
+</frame>
+<frame>
+<PositionIndex> 1995 </PositionIndex>
+<tool> 210 246 42.367997 5.852493 </tool>
+<tool> 113 169 54.305801 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 1996 </PositionIndex>
+<tool> 212 244 41.316253 5.819538 </tool>
+<tool> 113 167 53.121387 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1997 </PositionIndex>
+<tool> 212 243 39.966657 5.830407 </tool>
+<tool> 113 168 53.145394 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 1998 </PositionIndex>
+<tool> 210 244 41.454951 5.898028 </tool>
+<tool> 115 169 54.741529 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 1999 </PositionIndex>
+<tool> 210 244 40.584245 5.840811 </tool>
+<tool> 118 170 51.111342 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 2000 </PositionIndex>
+<tool> 208 248 46.737728 5.902679 </tool>
+<tool> 115 170 54.823024 4.083593 </tool>
+</frame>
+<frame>
+<PositionIndex> 2000 </PositionIndex>
+<tool> 210 243 42.461650 5.862522 </tool>
+<tool> 113 170 55.146644 4.013729 </tool>
+</frame>
+<frame>
+<PositionIndex> 2001 </PositionIndex>
+<tool> 209 246 44.079884 5.936646 </tool>
+<tool> 115 170 54.309991 4.026659 </tool>
+</frame>
+<frame>
+<PositionIndex> 2002 </PositionIndex>
+<tool> 208 247 47.226200 5.888394 </tool>
+<tool> 116 170 54.430967 4.041867 </tool>
+</frame>
+<frame>
+<PositionIndex> 2003 </PositionIndex>
+<tool> 209 246 45.352062 5.878294 </tool>
+<tool> 115 172 52.987866 3.979574 </tool>
+</frame>
+<frame>
+<PositionIndex> 2004 </PositionIndex>
+<tool> 209 246 45.352062 5.902679 </tool>
+<tool> 115 172 51.930577 3.962690 </tool>
+</frame>
+<frame>
+<PositionIndex> 2005 </PositionIndex>
+<tool> 209 244 45.352062 5.927549 </tool>
+<tool> 116 169 56.252310 4.053583 </tool>
+</frame>
+<frame>
+<PositionIndex> 2006 </PositionIndex>
+<tool> 209 244 43.298639 5.888394 </tool>
+<tool> 115 168 53.813458 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 2007 </PositionIndex>
+<tool> 210 243 43.298639 5.884663 </tool>
+<tool> 114 167 56.040174 4.058306 </tool>
+</frame>
+<frame>
+<PositionIndex> 2008 </PositionIndex>
+<tool> 208 246 46.194828 5.864961 </tool>
+<tool> 114 167 53.258922 4.063393 </tool>
+</frame>
+<frame>
+<PositionIndex> 2009 </PositionIndex>
+<tool> 208 248 48.719578 5.924415 </tool>
+<tool> 116 167 51.666315 4.074069 </tool>
+</frame>
+<frame>
+<PositionIndex> 2010 </PositionIndex>
+<tool> 207 250 49.951903 5.898028 </tool>
+<tool> 115 168 55.363582 4.094633 </tool>
+</frame>
+<frame>
+<PositionIndex> 2011 </PositionIndex>
+<tool> 205 256 58.692801 5.875036 </tool>
+<tool> 113 167 54.925154 4.131009 </tool>
+</frame>
+<frame>
+<PositionIndex> 2012 </PositionIndex>
+<tool> 187 265 72.532424 5.902679 </tool>
+<tool> 112 169 50.387739 4.117630 </tool>
+</frame>
+<frame>
+<PositionIndex> 2013 </PositionIndex>
+<tool> 184 268 74.400476 5.860331 </tool>
+<tool> 112 167 56.608291 4.151702 </tool>
+</frame>
+<frame>
+<PositionIndex> 2014 </PositionIndex>
+<tool> 174 282 74.746133 5.856558 </tool>
+<tool> 107 167 54.034337 4.073475 </tool>
+</frame>
+<frame>
+<PositionIndex> 2015 </PositionIndex>
+<tool> 173 291 80.954942 5.930877 </tool>
+<tool> 108 170 55.632650 4.085081 </tool>
+</frame>
+<frame>
+<PositionIndex> 2016 </PositionIndex>
+<tool> 168 315 94.672352 5.968428 </tool>
+<tool> 108 169 55.363582 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 2017 </PositionIndex>
+<tool> 158 325 102.699312 5.968953 </tool>
+<tool> 108 170 56.040174 4.103226 </tool>
+</frame>
+<frame>
+<PositionIndex> 2018 </PositionIndex>
+<tool> 155 325 97.908728 5.954136 </tool>
+<tool> 108 172 52.424597 4.087754 </tool>
+</frame>
+<frame>
+<PositionIndex> 2019 </PositionIndex>
+<tool> 107 169 55.591093 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2020 </PositionIndex>
+<tool> 152 355 112.798139 5.930195 </tool>
+<tool> 106 169 57.471590 4.097726 </tool>
+</frame>
+<frame>
+<PositionIndex> 2021 </PositionIndex>
+<tool> 149 361 116.609166 5.846558 </tool>
+<tool> 107 171 53.185438 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2022 </PositionIndex>
+<tool> 107 170 49.619827 4.086904 </tool>
+</frame>
+<frame>
+<PositionIndex> 2023 </PositionIndex>
+<tool> 107 171 57.471590 4.094633 </tool>
+</frame>
+<frame>
+<PositionIndex> 2024 </PositionIndex>
+<tool> 108 172 51.714463 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2025 </PositionIndex>
+<tool> 109 172 53.747348 4.176578 </tool>
+</frame>
+<frame>
+<PositionIndex> 2026 </PositionIndex>
+<tool> 111 172 52.152613 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 2027 </PositionIndex>
+<tool> 112 172 50.725302 4.187593 </tool>
+</frame>
+<frame>
+<PositionIndex> 2028 </PositionIndex>
+<tool> 109 173 48.941653 4.153790 </tool>
+</frame>
+<frame>
+<PositionIndex> 2029 </PositionIndex>
+<tool> 105 173 56.598869 4.062519 </tool>
+</frame>
+<frame>
+<PositionIndex> 2030 </PositionIndex>
+<tool> 103 176 57.743150 4.049186 </tool>
+<tool> 114 336 111.177390 5.984686 </tool>
+</frame>
+<frame>
+<PositionIndex> 2031 </PositionIndex>
+<tool> 103 175 57.341529 4.010132 </tool>
+<tool> 130 327 116.152446 5.968428 </tool>
+</frame>
+<frame>
+<PositionIndex> 2032 </PositionIndex>
+<tool> 103 172 50.945612 4.116190 </tool>
+<tool> 127 306 106.539538 5.890845 </tool>
+</frame>
+<frame>
+<PositionIndex> 2033 </PositionIndex>
+<tool> 125 299 117.174909 5.930195 </tool>
+<tool> 105 172 49.216934 4.099182 </tool>
+</frame>
+<frame>
+<PositionIndex> 2034 </PositionIndex>
+<tool> 133 278 109.301953 5.913852 </tool>
+<tool> 107 172 47.690682 4.086904 </tool>
+</frame>
+<frame>
+<PositionIndex> 2035 </PositionIndex>
+<tool> 130 264 102.039418 5.956826 </tool>
+<tool> 103 169 39.633115 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 2036 </PositionIndex>
+<tool> 143 268 98.952626 5.902679 </tool>
+<tool> 101 169 43.080487 4.131009 </tool>
+</frame>
+<frame>
+<PositionIndex> 2037 </PositionIndex>
+<tool> 150 258 99.697180 5.931741 </tool>
+<tool> 98 167 41.397001 4.196158 </tool>
+</frame>
+<frame>
+<PositionIndex> 2038 </PositionIndex>
+<tool> 162 264 122.491719 5.917129 </tool>
+<tool> 105 170 51.476726 4.175954 </tool>
+</frame>
+<frame>
+<PositionIndex> 2039 </PositionIndex>
+<tool> 162 264 120.479671 5.914836 </tool>
+<tool> 99 168 60.726271 4.089190 </tool>
+</frame>
+<frame>
+<PositionIndex> 2040 </PositionIndex>
+<tool> 165 266 122.845323 5.935799 </tool>
+<tool> 102 168 49.476313 4.156223 </tool>
+</frame>
+<frame>
+<PositionIndex> 2041 </PositionIndex>
+<tool> 168 264 122.327613 5.935799 </tool>
+<tool> 101 170 43.039203 4.147240 </tool>
+</frame>
+<frame>
+<PositionIndex> 2042 </PositionIndex>
+<tool> 171 257 114.168820 5.899658 </tool>
+<tool> 100 169 47.120683 4.153790 </tool>
+</frame>
+<frame>
+<PositionIndex> 2043 </PositionIndex>
+<tool> 176 250 109.067497 5.945729 </tool>
+<tool> 102 166 52.745757 4.118175 </tool>
+</frame>
+<frame>
+<PositionIndex> 2044 </PositionIndex>
+<tool> 178 255 108.809665 5.971638 </tool>
+<tool> 105 164 57.764696 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 2045 </PositionIndex>
+<tool> 173 258 118.454458 5.905217 </tool>
+<tool> 102 165 58.190897 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2046 </PositionIndex>
+<tool> 159 264 107.310972 5.940161 </tool>
+<tool> 99 166 61.311857 4.119039 </tool>
+</frame>
+<frame>
+<PositionIndex> 2047 </PositionIndex>
+<tool> 145 277 117.900887 5.957689 </tool>
+<tool> 96 162 55.680561 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2048 </PositionIndex>
+<tool> 131 293 132.058045 5.902679 </tool>
+<tool> 94 166 65.820037 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 2049 </PositionIndex>
+<tool> 124 312 139.299702 5.891485 </tool>
+<tool> 96 161 62.224196 4.168557 </tool>
+</frame>
+<frame>
+<PositionIndex> 2050 </PositionIndex>
+<tool> 92 161 68.467650 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 2051 </PositionIndex>
+<tool> 85 157 77.288152 4.037648 </tool>
+</frame>
+<frame>
+<PositionIndex> 2052 </PositionIndex>
+<tool> 85 154 73.089097 4.129649 </tool>
+</frame>
+<frame>
+<PositionIndex> 2053 </PositionIndex>
+<tool> 85 156 71.196629 4.113970 </tool>
+</frame>
+<frame>
+<PositionIndex> 2054 </PositionIndex>
+<tool> 83 157 74.189913 4.160734 </tool>
+</frame>
+<frame>
+<PositionIndex> 2055 </PositionIndex>
+<tool> 83 158 73.766983 4.139929 </tool>
+</frame>
+<frame>
+<PositionIndex> 2056 </PositionIndex>
+<tool> 82 154 72.747785 4.106844 </tool>
+</frame>
+<frame>
+<PositionIndex> 2057 </PositionIndex>
+<tool> 82 155 73.525599 4.109159 </tool>
+</frame>
+<frame>
+<PositionIndex> 2058 </PositionIndex>
+<tool> 79 154 73.419138 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2059 </PositionIndex>
+<tool> 79 153 75.517489 4.096769 </tool>
+</frame>
+<frame>
+<PositionIndex> 2060 </PositionIndex>
+<tool> 80 153 76.211098 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 2061 </PositionIndex>
+<tool> 78 150 76.073350 4.129649 </tool>
+</frame>
+<frame>
+<PositionIndex> 2062 </PositionIndex>
+<tool> 166 312 123.537984 5.924415 </tool>
+<tool> 76 150 74.534161 4.089718 </tool>
+</frame>
+<frame>
+<PositionIndex> 2063 </PositionIndex>
+<tool> 168 301 123.740716 5.914836 </tool>
+<tool> 78 151 72.542227 4.136014 </tool>
+</frame>
+<frame>
+<PositionIndex> 2064 </PositionIndex>
+<tool> 171 287 116.487142 5.885311 </tool>
+<tool> 80 153 74.512693 4.119039 </tool>
+</frame>
+<frame>
+<PositionIndex> 2065 </PositionIndex>
+<tool> 168 288 117.385602 5.907914 </tool>
+<tool> 80 153 69.672180 4.101663 </tool>
+</frame>
+<frame>
+<PositionIndex> 2066 </PositionIndex>
+<tool> 166 288 113.713241 5.894867 </tool>
+<tool> 81 155 65.968417 4.155790 </tool>
+</frame>
+<frame>
+<PositionIndex> 2067 </PositionIndex>
+<tool> 167 289 106.985786 5.917129 </tool>
+<tool> 82 156 67.262693 4.168108 </tool>
+</frame>
+<frame>
+<PositionIndex> 2068 </PositionIndex>
+<tool> 164 283 105.466234 5.947218 </tool>
+<tool> 84 157 68.040505 4.106844 </tool>
+</frame>
+<frame>
+<PositionIndex> 2069 </PositionIndex>
+<tool> 168 285 102.039418 5.926273 </tool>
+<tool> 82 159 65.968417 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 2070 </PositionIndex>
+<tool> 168 286 98.891525 5.911476 </tool>
+<tool> 85 159 64.865107 4.147240 </tool>
+</frame>
+<frame>
+<PositionIndex> 2071 </PositionIndex>
+<tool> 168 292 100.515832 5.946510 </tool>
+<tool> 86 162 66.561301 4.119039 </tool>
+</frame>
+<frame>
+<PositionIndex> 2072 </PositionIndex>
+<tool> 163 297 104.755901 5.942206 </tool>
+<tool> 85 161 70.715599 4.145660 </tool>
+</frame>
+<frame>
+<PositionIndex> 2073 </PositionIndex>
+<tool> 165 297 103.162173 5.956359 </tool>
+<tool> 88 161 66.382118 4.143076 </tool>
+</frame>
+<frame>
+<PositionIndex> 2074 </PositionIndex>
+<tool> 169 294 103.363592 5.922619 </tool>
+<tool> 87 160 62.563249 4.182799 </tool>
+</frame>
+<frame>
+<PositionIndex> 2075 </PositionIndex>
+<tool> 167 294 104.127825 5.882392 </tool>
+<tool> 86 161 66.944790 4.158081 </tool>
+</frame>
+<frame>
+<PositionIndex> 2076 </PositionIndex>
+<tool> 164 299 101.204986 5.882392 </tool>
+<tool> 86 161 62.790154 4.163840 </tool>
+</frame>
+<frame>
+<PositionIndex> 2077 </PositionIndex>
+<tool> 160 306 103.043202 5.982265 </tool>
+<tool> 85 163 60.726271 4.130036 </tool>
+</frame>
+<frame>
+<PositionIndex> 2078 </PositionIndex>
+<tool> 163 309 99.764915 5.860331 </tool>
+<tool> 84 159 66.103020 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2079 </PositionIndex>
+<tool> 162 311 98.213289 5.849604 </tool>
+<tool> 84 160 59.701817 4.111315 </tool>
+</frame>
+<frame>
+<PositionIndex> 2080 </PositionIndex>
+<tool> 157 307 105.365051 5.920641 </tool>
+<tool> 85 160 60.541563 4.211376 </tool>
+</frame>
+<frame>
+<PositionIndex> 2081 </PositionIndex>
+<tool> 164 303 104.825455 5.876215 </tool>
+<tool> 85 162 59.463128 4.147240 </tool>
+</frame>
+<frame>
+<PositionIndex> 2082 </PositionIndex>
+<tool> 168 297 100.828386 5.882392 </tool>
+<tool> 81 159 63.174023 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 2083 </PositionIndex>
+<tool> 170 295 91.618706 5.920641 </tool>
+<tool> 88 157 62.012422 4.218448 </tool>
+</frame>
+<frame>
+<PositionIndex> 2084 </PositionIndex>
+<tool> 176 289 104.122703 5.848515 </tool>
+<tool> 85 162 58.574557 4.141052 </tool>
+</frame>
+<frame>
+<PositionIndex> 2085 </PositionIndex>
+<tool> 176 284 95.526629 5.890845 </tool>
+<tool> 84 159 56.432156 4.211376 </tool>
+</frame>
+<frame>
+<PositionIndex> 2086 </PositionIndex>
+<tool> 177 283 98.050249 5.843343 </tool>
+<tool> 85 160 58.453033 4.185762 </tool>
+</frame>
+<frame>
+<PositionIndex> 2087 </PositionIndex>
+<tool> 176 281 96.708469 5.856558 </tool>
+<tool> 85 160 64.540903 4.205290 </tool>
+</frame>
+<frame>
+<PositionIndex> 2088 </PositionIndex>
+<tool> 177 283 99.178730 5.840811 </tool>
+<tool> 83 161 61.346641 4.179545 </tool>
+</frame>
+<frame>
+<PositionIndex> 2089 </PositionIndex>
+<tool> 176 283 99.861091 5.834462 </tool>
+<tool> 84 160 60.368070 4.182799 </tool>
+</frame>
+<frame>
+<PositionIndex> 2090 </PositionIndex>
+<tool> 174 283 99.020871 5.880531 </tool>
+<tool> 82 162 61.320555 4.168911 </tool>
+</frame>
+<frame>
+<PositionIndex> 2091 </PositionIndex>
+<tool> 176 281 95.024713 5.905655 </tool>
+<tool> 82 162 63.968203 4.147240 </tool>
+</frame>
+<frame>
+<PositionIndex> 2092 </PositionIndex>
+<tool> 173 283 92.104442 5.834462 </tool>
+<tool> 84 162 56.381731 4.190955 </tool>
+</frame>
+<frame>
+<PositionIndex> 2093 </PositionIndex>
+<tool> 165 290 106.163441 5.849604 </tool>
+<tool> 82 163 58.574557 4.147240 </tool>
+</frame>
+<frame>
+<PositionIndex> 2094 </PositionIndex>
+<tool> 154 290 96.264440 5.840811 </tool>
+<tool> 85 162 62.605856 4.168557 </tool>
+</frame>
+<frame>
+<PositionIndex> 2095 </PositionIndex>
+<tool> 150 290 105.229989 5.826340 </tool>
+<tool> 82 164 61.471121 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2096 </PositionIndex>
+<tool> 151 286 102.316049 5.847502 </tool>
+<tool> 82 163 62.996492 4.151702 </tool>
+</frame>
+<frame>
+<PositionIndex> 2097 </PositionIndex>
+<tool> 160 277 95.651232 5.805840 </tool>
+<tool> 84 161 61.857427 4.187593 </tool>
+</frame>
+<frame>
+<PositionIndex> 2098 </PositionIndex>
+<tool> 168 267 88.103288 5.826580 </tool>
+<tool> 86 160 62.224196 4.175478 </tool>
+</frame>
+<frame>
+<PositionIndex> 2099 </PositionIndex>
+<tool> 174 269 91.081599 5.819538 </tool>
+<tool> 82 160 60.456349 4.149073 </tool>
+</frame>
+<frame>
+<PositionIndex> 2100 </PositionIndex>
+<tool> 173 266 91.632287 5.847502 </tool>
+<tool> 88 162 60.338615 4.171969 </tool>
+</frame>
+<frame>
+<PositionIndex> 2101 </PositionIndex>
+<tool> 171 271 102.560740 5.833426 </tool>
+<tool> 87 164 58.656444 4.081988 </tool>
+</frame>
+<frame>
+<PositionIndex> 2102 </PositionIndex>
+<tool> 169 271 102.449747 5.833925 </tool>
+<tool> 86 164 57.887666 4.164827 </tool>
+</frame>
+<frame>
+<PositionIndex> 2103 </PositionIndex>
+<tool> 170 277 97.592288 5.878294 </tool>
+<tool> 84 164 59.627329 4.099851 </tool>
+</frame>
+<frame>
+<PositionIndex> 2104 </PositionIndex>
+<tool> 176 281 95.308648 5.841593 </tool>
+<tool> 85 164 61.851679 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 2105 </PositionIndex>
+<tool> 173 282 92.193184 5.834462 </tool>
+<tool> 85 163 63.544383 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2106 </PositionIndex>
+<tool> 176 288 94.131895 5.918450 </tool>
+<tool> 86 165 58.483438 4.056693 </tool>
+</frame>
+<frame>
+<PositionIndex> 2107 </PositionIndex>
+<tool> 173 293 94.709899 5.866747 </tool>
+<tool> 85 164 62.224196 4.098619 </tool>
+</frame>
+<frame>
+<PositionIndex> 2108 </PositionIndex>
+<tool> 171 291 93.220993 5.918450 </tool>
+<tool> 86 164 62.415318 4.103700 </tool>
+</frame>
+<frame>
+<PositionIndex> 2109 </PositionIndex>
+<tool> 176 290 98.862759 5.852047 </tool>
+<tool> 85 164 64.491305 4.080698 </tool>
+</frame>
+<frame>
+<PositionIndex> 2110 </PositionIndex>
+<tool> 177 285 90.892080 5.864961 </tool>
+<tool> 85 162 61.658810 4.112339 </tool>
+</frame>
+<frame>
+<PositionIndex> 2111 </PositionIndex>
+<tool> 176 284 89.084507 5.859516 </tool>
+<tool> 85 161 66.582664 4.139929 </tool>
+</frame>
+<frame>
+<PositionIndex> 2112 </PositionIndex>
+<tool> 176 279 107.966637 5.899368 </tool>
+<tool> 84 162 63.934846 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2113 </PositionIndex>
+<tool> 176 278 107.370592 5.862989 </tool>
+<tool> 85 160 60.164537 4.089718 </tool>
+</frame>
+<frame>
+<PositionIndex> 2114 </PositionIndex>
+<tool> 177 275 104.950875 5.882945 </tool>
+<tool> 85 161 64.903465 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 2115 </PositionIndex>
+<tool> 175 277 103.265514 5.836343 </tool>
+<tool> 84 161 63.373501 4.054500 </tool>
+</frame>
+<frame>
+<PositionIndex> 2116 </PositionIndex>
+<tool> 173 272 98.981366 5.902679 </tool>
+<tool> 86 161 66.787932 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 2117 </PositionIndex>
+<tool> 172 274 98.500666 5.885557 </tool>
+<tool> 84 161 63.577946 4.078366 </tool>
+</frame>
+<frame>
+<PositionIndex> 2118 </PositionIndex>
+<tool> 173 270 100.260832 5.870775 </tool>
+<tool> 86 161 66.325856 4.079640 </tool>
+</frame>
+<frame>
+<PositionIndex> 2119 </PositionIndex>
+<tool> 173 269 84.199194 5.888394 </tool>
+<tool> 85 161 63.737125 4.108640 </tool>
+</frame>
+<frame>
+<PositionIndex> 2120 </PositionIndex>
+<tool> 171 266 84.916100 5.868678 </tool>
+<tool> 87 159 63.667358 4.149073 </tool>
+</frame>
+<frame>
+<PositionIndex> 2121 </PositionIndex>
+<tool> 168 268 82.419551 5.819538 </tool>
+<tool> 88 159 64.220599 4.142349 </tool>
+</frame>
+<frame>
+<PositionIndex> 2122 </PositionIndex>
+<tool> 169 264 78.875035 5.870775 </tool>
+<tool> 88 160 64.444427 4.160734 </tool>
+</frame>
+<frame>
+<PositionIndex> 2123 </PositionIndex>
+<tool> 168 260 77.572841 5.828466 </tool>
+<tool> 87 159 62.460873 4.130036 </tool>
+</frame>
+<frame>
+<PositionIndex> 2124 </PositionIndex>
+<tool> 173 252 70.514202 5.864961 </tool>
+<tool> 86 160 63.934846 4.142349 </tool>
+</frame>
+<frame>
+<PositionIndex> 2125 </PositionIndex>
+<tool> 174 250 67.718377 5.810279 </tool>
+<tool> 86 157 64.137501 4.171969 </tool>
+</frame>
+<frame>
+<PositionIndex> 2126 </PositionIndex>
+<tool> 174 246 63.603106 5.847832 </tool>
+<tool> 85 157 62.812800 4.163840 </tool>
+</frame>
+<frame>
+<PositionIndex> 2127 </PositionIndex>
+<tool> 177 246 79.980677 5.847832 </tool>
+<tool> 84 159 63.544383 4.105401 </tool>
+</frame>
+<frame>
+<PositionIndex> 2128 </PositionIndex>
+<tool> 180 241 83.478261 5.929188 </tool>
+<tool> 88 158 62.338369 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2129 </PositionIndex>
+<tool> 183 237 75.764259 5.819538 </tool>
+<tool> 90 161 57.798539 4.062519 </tool>
+</frame>
+<frame>
+<PositionIndex> 2130 </PositionIndex>
+<tool> 183 238 75.785374 5.898581 </tool>
+<tool> 91 160 58.692801 4.081988 </tool>
+</frame>
+<frame>
+<PositionIndex> 2131 </PositionIndex>
+<tool> 182 244 82.391506 5.856558 </tool>
+<tool> 88 162 56.693017 4.085646 </tool>
+</frame>
+<frame>
+<PositionIndex> 2132 </PositionIndex>
+<tool> 181 250 75.578669 5.975133 </tool>
+<tool> 90 161 57.912228 4.135197 </tool>
+</frame>
+<frame>
+<PositionIndex> 2133 </PositionIndex>
+<tool> 184 250 67.977770 5.934414 </tool>
+<tool> 87 160 61.288657 4.077362 </tool>
+</frame>
+<frame>
+<PositionIndex> 2134 </PositionIndex>
+<tool> 185 250 68.558465 5.914489 </tool>
+<tool> 89 159 61.288657 4.074840 </tool>
+</frame>
+<frame>
+<PositionIndex> 2135 </PositionIndex>
+<tool> 185 243 67.907125 5.909458 </tool>
+<tool> 87 159 65.462553 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2136 </PositionIndex>
+<tool> 183 252 69.136853 5.941570 </tool>
+<tool> 91 160 56.598869 4.175954 </tool>
+</frame>
+<frame>
+<PositionIndex> 2137 </PositionIndex>
+<tool> 179 250 66.944790 6.010177 </tool>
+<tool> 87 159 60.726271 4.162536 </tool>
+</frame>
+<frame>
+<PositionIndex> 2138 </PositionIndex>
+<tool> 184 244 55.064152 5.966616 </tool>
+<tool> 87 162 60.576789 4.118175 </tool>
+</frame>
+<frame>
+<PositionIndex> 2139 </PositionIndex>
+<tool> 181 247 56.955805 5.930195 </tool>
+<tool> 85 164 63.577946 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2140 </PositionIndex>
+<tool> 186 244 56.040174 5.922619 </tool>
+<tool> 87 167 58.574557 4.151226 </tool>
+</frame>
+<frame>
+<PositionIndex> 2141 </PositionIndex>
+<tool> 184 255 70.436005 5.870775 </tool>
+<tool> 88 167 61.471121 4.130484 </tool>
+</frame>
+<frame>
+<PositionIndex> 2142 </PositionIndex>
+<tool> 187 247 63.230277 5.899658 </tool>
+<tool> 89 170 59.728610 4.136014 </tool>
+</frame>
+<frame>
+<PositionIndex> 2143 </PositionIndex>
+<tool> 187 243 61.288657 5.971638 </tool>
+<tool> 93 173 56.598869 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2144 </PositionIndex>
+<tool> 185 252 80.122802 5.961435 </tool>
+<tool> 94 175 62.605856 4.135197 </tool>
+</frame>
+<frame>
+<PositionIndex> 2145 </PositionIndex>
+<tool> 184 246 63.577946 6.002649 </tool>
+<tool> 102 180 54.548416 4.109159 </tool>
+</frame>
+<frame>
+<PositionIndex> 2146 </PositionIndex>
+<tool> 186 247 59.226479 5.935799 </tool>
+<tool> 104 182 50.781345 4.096769 </tool>
+</frame>
+<frame>
+<PositionIndex> 2147 </PositionIndex>
+<tool> 180 246 63.266816 6.004886 </tool>
+<tool> 110 187 48.894410 4.061312 </tool>
+</frame>
+<frame>
+<PositionIndex> 2148 </PositionIndex>
+<tool> 184 233 52.230954 5.966130 </tool>
+<tool> 112 183 48.503818 4.112339 </tool>
+</frame>
+<frame>
+<PositionIndex> 2149 </PositionIndex>
+<tool> 183 229 62.979558 6.023556 </tool>
+<tool> 113 179 49.025124 4.171969 </tool>
+</frame>
+<frame>
+<PositionIndex> 2150 </PositionIndex>
+<tool> 184 232 65.242217 5.956087 </tool>
+<tool> 113 176 51.300299 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2151 </PositionIndex>
+<tool> 190 239 75.545732 5.926565 </tool>
+<tool> 115 178 51.666315 4.077362 </tool>
+</frame>
+<frame>
+<PositionIndex> 2152 </PositionIndex>
+<tool> 185 235 69.621131 5.961435 </tool>
+<tool> 117 177 48.898046 4.099851 </tool>
+</frame>
+<frame>
+<PositionIndex> 2153 </PositionIndex>
+<tool> 183 236 81.672030 5.961435 </tool>
+<tool> 120 174 44.863374 4.073003 </tool>
+</frame>
+<frame>
+<PositionIndex> 2154 </PositionIndex>
+<tool> 183 225 70.898875 6.030110 </tool>
+<tool> 113 173 54.086951 4.108083 </tool>
+</frame>
+<frame>
+<PositionIndex> 2155 </PositionIndex>
+<tool> 189 220 62.252759 5.996247 </tool>
+<tool> 117 173 52.829948 4.124386 </tool>
+</frame>
+<frame>
+<PositionIndex> 2156 </PositionIndex>
+<tool> 187 221 63.174023 5.998068 </tool>
+<tool> 120 171 49.591157 4.131009 </tool>
+</frame>
+<frame>
+<PositionIndex> 2157 </PositionIndex>
+<tool> 190 222 60.152716 5.950566 </tool>
+<tool> 119 173 46.604775 4.047614 </tool>
+</frame>
+<frame>
+<PositionIndex> 2158 </PositionIndex>
+<tool> 188 229 72.385220 5.955447 </tool>
+<tool> 121 172 47.705590 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 2159 </PositionIndex>
+<tool> 186 219 66.022291 5.972187 </tool>
+<tool> 121 171 47.331481 4.136014 </tool>
+</frame>
+<frame>
+<PositionIndex> 2160 </PositionIndex>
+<tool> 189 228 66.237348 5.873058 </tool>
+<tool> 116 171 50.546253 4.059542 </tool>
+</frame>
+<frame>
+<PositionIndex> 2160 </PositionIndex>
+<tool> 191 226 81.215762 5.967215 </tool>
+<tool> 119 171 45.221676 4.068888 </tool>
+</frame>
+<frame>
+<PositionIndex> 2161 </PositionIndex>
+<tool> 189 226 77.129761 5.913279 </tool>
+<tool> 119 170 47.434165 4.118639 </tool>
+</frame>
+<frame>
+<PositionIndex> 2162 </PositionIndex>
+<tool> 187 232 84.723078 5.894867 </tool>
+<tool> 117 169 46.173586 4.149891 </tool>
+</frame>
+<frame>
+<PositionIndex> 2163 </PositionIndex>
+<tool> 192 214 72.835431 5.941235 </tool>
+<tool> 118 170 44.598206 4.054500 </tool>
+</frame>
+<frame>
+<PositionIndex> 2164 </PositionIndex>
+<tool> 194 225 81.887946 5.854921 </tool>
+<tool> 122 170 47.406361 4.115212 </tool>
+</frame>
+<frame>
+<PositionIndex> 2165 </PositionIndex>
+<tool> 192 223 76.485293 5.931141 </tool>
+<tool> 120 171 48.270074 4.017651 </tool>
+</frame>
+<frame>
+<PositionIndex> 2166 </PositionIndex>
+<tool> 191 223 73.616209 5.924415 </tool>
+<tool> 122 167 46.945480 4.136014 </tool>
+</frame>
+<frame>
+<PositionIndex> 2167 </PositionIndex>
+<tool> 192 224 66.189021 5.942803 </tool>
+<tool> 121 169 46.386843 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2168 </PositionIndex>
+<tool> 190 219 64.939062 5.967215 </tool>
+<tool> 119 166 48.719578 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 2169 </PositionIndex>
+<tool> 190 222 72.630395 5.973482 </tool>
+<tool> 119 168 54.714370 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2170 </PositionIndex>
+<tool> 193 222 61.978012 5.902679 </tool>
+<tool> 121 167 46.741893 4.110102 </tool>
+</frame>
+<frame>
+<PositionIndex> 2171 </PositionIndex>
+<tool> 195 221 65.874032 5.922349 </tool>
+<tool> 120 167 53.185438 4.089718 </tool>
+</frame>
+<frame>
+<PositionIndex> 2172 </PositionIndex>
+<tool> 195 224 69.229358 5.913279 </tool>
+<tool> 124 171 46.969534 4.092139 </tool>
+</frame>
+<frame>
+<PositionIndex> 2173 </PositionIndex>
+<tool> 193 221 73.672937 5.922349 </tool>
+<tool> 122 171 52.624285 4.097726 </tool>
+</frame>
+<frame>
+<PositionIndex> 2174 </PositionIndex>
+<tool> 193 214 78.586015 5.912294 </tool>
+<tool> 113 175 46.206371 4.081310 </tool>
+</frame>
+<frame>
+<PositionIndex> 2175 </PositionIndex>
+<tool> 188 209 79.998457 5.961435 </tool>
+<tool> 113 178 44.525288 4.064578 </tool>
+</frame>
+</tagDocument>
