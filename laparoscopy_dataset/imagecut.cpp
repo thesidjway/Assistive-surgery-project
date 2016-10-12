@@ -2,7 +2,10 @@
 #include "opencv2/imgproc/imgproc.hpp"
 #include <boost/algorithm/string.hpp>
 
-
+#define minx 20
+#define maxx 320
+#define miny 20
+#define maxy 220
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -52,6 +55,25 @@ for(iter=0;iter<strs.size();iter++)
 			namedWindow("damn", CV_WINDOW_NORMAL);
 			imshow("damn", croppedTool);
 			imwrite( "genData/pos/second/second00"+ss.str()+".png", croppedTool );
+			
+			Rect randomrect;
+			randomrect.y = (rand()%(maxy-miny))+miny;
+			randomrect.x = (rand()%(maxx-minx))+minx;
+			randomrect.width = 64;
+			randomrect.height = 64;
+			Mat croppedRandom;
+			croppedRandom = src(randomrect);
+			imwrite( "genData/neg/imr02"+ss.str()+".png", croppedRandom );
+			
+			Rect arbitrect;
+			arbitrect.y = (rand()%(maxy-miny))+miny;
+			arbitrect.x = (rand()%(maxx-minx))+minx;
+			arbitrect.width = 64;
+			arbitrect.height = 64;
+			Mat croppedArbit;
+			croppedArbit = src(arbitrect);
+			imwrite( "genData/neg/imr03"+ss.str()+".png", croppedArbit );
+
 		}
 		else //first tool
 		{
