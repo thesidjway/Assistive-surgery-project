@@ -41,12 +41,32 @@ for(iter=0;iter<strs.size();iter++)
 		if(prev_id==pic_id) //second tool
 		{
 			cout<<"THE SECOND TOOL"<<endl;
-			Mat second(200, 200, CV_8UC3, Scalar(0));
+			Rect secondrect;
+			secondrect.y = std::stoi(info[1])-32;
+			secondrect.x = std::stoi(info[2])-32;
+			secondrect.width = 64;
+			secondrect.height = 64;
+			Mat croppedTool;
+			croppedTool = src(secondrect);
+			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
+			namedWindow("damn", CV_WINDOW_NORMAL);
+			imshow("damn", croppedTool);
+			imwrite( "genData/pos/second/second00"+ss.str()+".png", croppedTool );
 		}
 		else //first tool
 		{
 			cout<<"THE FIRST TOOL"<<endl;
-			Mat first(48,48, CV_8UC3, Scalar(0));
+			Rect firstrect;
+			firstrect.y = std::stoi(info[1])-32;
+			firstrect.x = std::stoi(info[2])-32;
+			firstrect.width = 64;
+			firstrect.height = 64;
+			Mat croppedTool;
+			croppedTool = src(firstrect);
+			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
+			namedWindow("damn", CV_WINDOW_NORMAL);
+			imshow("damn", croppedTool);
+			imwrite( "genData/pos/first/first00"+ss.str()+".png", croppedTool );
 
 		}
 		// 
