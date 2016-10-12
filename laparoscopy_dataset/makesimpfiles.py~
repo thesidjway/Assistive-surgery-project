@@ -1,7 +1,7 @@
 import re
 
-f=open('train.xml')
-g=open('train.new','w')
+f=open('test.xml')
+g=open('test.new','w')
 data=f.read()
 tools=data.split('<PositionIndex>')
 tools.pop(0)
