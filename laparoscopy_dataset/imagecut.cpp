@@ -17,12 +17,12 @@ using namespace std;
 
 int main()
 {
-ifstream newfile("train.new"); 
+ifstream newfile("test.new"); 
 string str((std::istreambuf_iterator<char>(newfile)),std::istreambuf_iterator<char>()); //copying content to string
 std::vector<std::string> strs;
 boost::split(strs, str, boost::is_any_of("\n")); //splitting with lines
 int iter=1;
-int pic_id=1174;
+int pic_id=1574;
 int prev_id=0;
 for(iter=0;iter<strs.size();iter++)
 {
@@ -36,7 +36,7 @@ for(iter=0;iter<strs.size();iter++)
 		
 		stringstream ss;
 		ss << pic_id;
-		string filename="trainData/00"+ss.str()+".png";
+		string filename="testData/00"+ss.str()+".png";
 		//cout<<filename<<endl;
 		std::vector<std::string> info;
 		boost::split(info,strs[iter], boost::is_any_of(" "));
@@ -54,7 +54,7 @@ for(iter=0;iter<strs.size();iter++)
 			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
 			namedWindow("damn", CV_WINDOW_NORMAL);
 			imshow("damn", croppedTool);
-			imwrite( "genData/pos/second/second00"+ss.str()+".png", croppedTool );
+			imwrite( "genData/postest/second/second00"+ss.str()+".png", croppedTool );
 			
 			Rect randomrect;
 			randomrect.y = (rand()%(maxy-miny))+miny;
@@ -63,7 +63,7 @@ for(iter=0;iter<strs.size();iter++)
 			randomrect.height = 64;
 			Mat croppedRandom;
 			croppedRandom = src(randomrect);
-			imwrite( "genData/neg/imr02"+ss.str()+".png", croppedRandom );
+			imwrite( "genData/negtest/imr02"+ss.str()+".png", croppedRandom );
 			
 			Rect arbitrect;
 			arbitrect.y = (rand()%(maxy-miny))+miny;
@@ -72,7 +72,7 @@ for(iter=0;iter<strs.size();iter++)
 			arbitrect.height = 64;
 			Mat croppedArbit;
 			croppedArbit = src(arbitrect);
-			imwrite( "genData/neg/imr03"+ss.str()+".png", croppedArbit );
+			imwrite( "genData/negtest/imr03"+ss.str()+".png", croppedArbit );
 
 		}
 		else //first tool
@@ -88,7 +88,7 @@ for(iter=0;iter<strs.size();iter++)
 			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
 			namedWindow("damn", CV_WINDOW_NORMAL);
 			imshow("damn", croppedTool);
-			imwrite( "genData/pos/first/first00"+ss.str()+".png", croppedTool );
+			imwrite( "genData/postest/first/first00"+ss.str()+".png", croppedTool );
 
 		}
 		// 

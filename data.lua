@@ -1,0 +1,128 @@
+require 'torch'   -- torch
+require 'image'   -- to visualize the dataset
+require 'nnx'      -- provides a normalization operator
+require 'cutorch'
+
+local opt = opt or {
+   visualize = true,
+   size = 'small',
+   patches='all'
+}
+
+local imagesAll = torch.CudaTensor(2400,3,64,64)
+local labelsAll = torch.CudaTensor(2400)
+
+-- classes: GLOBAL var!
+classes = {'first','second','back'}
+
+-- load backgrounds:
+for f=0,799 do
+  k=f+1
+  imagesAll[f+1] = image.load('../../genData/neg/nega ('..k..').png') 
+  labelsAll[f+1] = 3 -- 3 = background
+end
+-- load tools:
+for f=0,799 do
+  k=f+1
+  imagesAll[f+801] = image.load('../../genData/first/first ('..k..').png') 
+  labelsAll[f+1101] = 1 -- 1 = first tool
+end
+
+for f=0,799 do
+  k=f+1
+  imagesAll[f+1601] = image.load('../../genData/second/second ('..k..').png') 
+  labelsAll[f+1601] = 2 -- 2 = second tool
+end
+
+-- shuffle dataset: get shuffled indices in this variable:
+local labelsShuffle = torch.randperm((#labelsAll)[1])
+
+local portionTrain = 0.8 -- 80% is train data, rest is test data
+local trsize = torch.floor(labelsShuffle:size(1)*portionTrain)
+local tesize = labelsShuffle:size(1) - trsize
+
+-- create train set:
+trainData = {
+   data = torch.CudaTensor(trsize, 1, 64, 64),
+   labels = torch.CudaTensor(trsize),
+   size = function() return trsize end
+}
+--create test setth:
+testData = {
+      data = torch.CudaTensor(tesize, 1, 64, 64),
+      labels = torch.CudaTensor(tesize),
+      size = function() return tesize end
+   }
+
+for i=1,trsize do
+   trainData.data[i] = imagesAll[labelsShuffle[i]][1]:clone()
+   trainData.labels[i] = labelsAll[labelsShuffle[i]]
+end
+for i=trsize+1,tesize+trsize do
+   testData.data[i-trsize] = imagesAll[labelsShuffle[i]][1]:clone()
+   testData.labels[i-trsize] = labelsAll[labelsShuffle[i]]
+end
+
+local channels = {'y'}--,'u','v'}
+
+-- Normalize each channel, and store mean/std
+-- per channel. These values are important, as they are part of
+-- the trainable parameters. At test time, test data will be normalized
+-- using these values.
+print(sys.COLORS.red ..  '==> preprocessing data: normalize each feature (channel) globally')
+local mean = {}
+local std = {}
+for i,channel in ipairs(channels) do
+   -- normalize each channel globally:
+   mean[i] = trainData.data[{ {},i,{},{} }]:mean()
+   std[i] = trainData.data[{ {},i,{},{} }]:std()
+   trainData.data[{ {},i,{},{} }]:add(-mean[i])
+   trainData.data[{ {},i,{},{} }]:div(std[i])
+end
+
+-- Normalize test data, using the training means/stds
+for i,channel in ipairs(channels) do
+   -- normalize each channel globally:
+   testData.data[{ {},i,{},{} }]:add(-mean[i])
+   testData.data[{ {},i,{},{} }]:div(std[i])
+end
+
+print(sys.COLORS.red ..  '==> verify statistics')
+
+-- It's always good practice to verify that data is properly
+-- normalized.
+
+for i,channel in ipairs(channels) do
+   local trainMean = trainData.data[{ {},i }]:mean()
+   local trainStd = trainData.data[{ {},i }]:std()
+
+   local testMean = testData.data[{ {},i }]:mean()
+   local testStd = testData.data[{ {},i }]:std()
+
+   print('training data, '..channel..'-channel, mean: ' .. trainMean)
+   print('training data, '..channel..'-channel, standard deviation: ' .. trainStd)
+
+   print('test data, '..channel..'-channel, mean: ' .. testMean)
+   print('test data, '..channel..'-channel, standard deviation: ' .. testStd)
+end
+
+print(sys.COLORS.red ..  '==> visualizing data')
+
+-- Visualization is quite easy, using image.display(). Check out:
+-- help(image.display), for more info about options.
+
+if opt.visualize then
+   local first256Samples_y = trainData.data[{ {1,256},1 }]
+   image.display{image=first256Samples_y, nrow=16, legend='Some training examples: Y channel'}
+   local first256Samples_y = testData.data[{ {1,256},1 }]
+   image.display{image=first256Samples_y, nrow=16, legend='Some testing examples: Y channel'}
+end
+
+-- Exports
+return {
+   trainData = trainData,
+   testData = testData,
+   mean = mean,
+   std = std,
+   classes = classes
+}
