@@ -46,7 +46,7 @@ CNN:add(nn.Threshold())
 local classifier = nn.Sequential()
 -- stage 3: linear
 classifier:add(nn.Reshape(nstates[2]))
-classifier:add(nn.Linear(nstates[2], 2))
+classifier:add(nn.Linear(nstates[2], 3))
 
 -- stage 4 : log probabilities
 classifier:add(nn.LogSoftMax())

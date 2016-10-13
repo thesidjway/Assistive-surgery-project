@@ -26,23 +26,29 @@ print(sys.COLORS.red ..  '==> loading dataset')
 
 -- We load the dataset from disk
 -- data tool 1: from 0 to 799; tool 2: from 800 to 1599
-local imagesAll = torch.Tensor(1600,3,32,32)
-local labelsAll = torch.Tensor(1600)
+local imagesAll = torch.Tensor(2400,3,32,32)
+local labelsAll = torch.Tensor(2400)
 
 -- classes: GLOBAL var!
-classes = {'tool 1','tool 2'}
+classes = {'tool 1','tool 2','bg'}
 
--- load backgrounds:
+-- load tool 1:
 for f=0,799 do
   k=f+1
   imagesAll[f+1] = image.load('../../phatch/first/first ('..k..').png') 
   labelsAll[f+1] = 1 -- 1 = first tool
 end
--- load faces:
+-- load tool 2:
 for f=800,1599 do
   k=f-799
   imagesAll[f+1] = image.load('../../phatch/second/second ('..k..').png') 
   labelsAll[f+1] = 2 -- 1 = second tool
+end
+-- load background:
+for f=1600,2399 do
+  k=f-1599
+  imagesAll[f+1] = image.load('../../phatch/bg/nega ('..k..').png') 
+  labelsAll[f+1] = 3 -- 1 = second tool
 end
 
 -- shuffle dataset: get shuffled indices in this variable:
