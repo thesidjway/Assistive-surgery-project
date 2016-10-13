@@ -85,7 +85,6 @@ end
 print(sys.COLORS.red ..  '==> defining training procedure')
 
 local epoch
-
 local function train(trainData)
 
    -- epoch tracker
@@ -154,22 +153,21 @@ local function train(trainData)
 
    -- update logger/plot
    trainLogger:add{['% mean class accuracy (train set)'] = confusion.totalValid * 100}
-   if opt.plot then
-      trainLogger:style{['% mean class accuracy (train set)'] = '-'}
-      trainLogger:plot()
-   end
-
+   trainLogger:style{['% mean class accuracy (train set)'] = '-'}
+   trainLogger:plot()
    -- save/log current net
    local filename = paths.concat(opt.save, 'model.net')
    os.execute('mkdir -p ' .. sys.dirname(filename))
    print('==> saving model to '..filename)
    model1 = model:clone()
+
    netLighter(model1)
    torch.save(filename, model1)
 
    -- next epoch
    confusion:zero()
    epoch = epoch + 1
+
 end
 
 -- Export:

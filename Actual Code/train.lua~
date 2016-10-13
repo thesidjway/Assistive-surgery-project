@@ -28,10 +28,10 @@ local loss = t.loss
 -- Save light network tools:
 function nilling(module)
    module.gradBias   = nil
-   if module.finput then module.finput = torch.CudaTensor() end
+   if module.finput then module.finput = torch.Tensor() end
    module.gradWeight = nil
-   module.output     = torch.CudaTensor()
-   if module.fgradInput then module.fgradInput = torch.CudaTensor() end
+   module.output     = torch.Tensor()
+   if module.fgradInput then module.fgradInput = torch.Tensor() end
    module.gradInput  = nil
 end
 
@@ -73,9 +73,9 @@ local optimState = {
 
 ----------------------------------------------------------------------
 print(sys.COLORS.red ..  '==> allocating minibatch memory')
-local x = torch.CudaTensor(opt.batchSize,trainData.data:size(2), 
+local x = torch.Tensor(opt.batchSize,trainData.data:size(2), 
          trainData.data:size(3), trainData.data:size(4)) --faces data
-local yt = torch.CudaTensor(opt.batchSize)
+local yt = torch.Tensor(opt.batchSize)
 if opt.type == 'cuda' then 
    x = x:cuda()
    yt = yt:cuda()
@@ -84,7 +84,7 @@ end
 ----------------------------------------------------------------------
 print(sys.COLORS.red ..  '==> defining training procedure')
 
-local epoch
+local epoch=30
 
 local function train(trainData)
 
