@@ -20,9 +20,9 @@ int main()
 int i=0,j=0;
 Mat src = imread("crop.png", CV_LOAD_IMAGE_COLOR);
 
-for (i=0;i<352;i=i+2)
+for (i=0;i<160;i=i+2)
 {
-	for(j=0;j<256;j=j+2)
+	for(j=0;j<112;j=j+2)
 	{	std::stringstream is;
 		string ist;
 		//cout<<"i"<<i<<"j"<<j<<endl;

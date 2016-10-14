@@ -35,13 +35,13 @@ classes = {'tool 1','tool 2','bg'}
 -- load tool 1:
 for f=0,799 do
   k=f+1
-  imagesAll[f+1] = image.load('../../phatch/first/first ('..k..').png') 
+  imagesAll[f+1] = image.load('../../phatch/first/ ('..k..').png') 
   labelsAll[f+1] = 1 -- 1 = first tool
 end
 -- load tool 2:
 for f=800,1599 do
   k=f-799
-  imagesAll[f+1] = image.load('../../phatch/second/second ('..k..').png') 
+  imagesAll[f+1] = image.load('../../phatch/second/ ('..k..').png') 
   labelsAll[f+1] = 2 -- 1 = second tool
 end
 -- load background:

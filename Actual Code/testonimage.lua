@@ -13,8 +13,8 @@ t=torch.load('results/model.net')
 local i=0
 local j=0
 local src = image.load('traintest.png',3)
-while i<352 do
-	while j<256 do
+while i<160 do
+	while j<112 do
 		local inputs = torch.Tensor(1,1,32,32)
 		local img = image.load('imageData/imi'..i..'j'..j..'.png')
 		local channels = {'y','u','v'}

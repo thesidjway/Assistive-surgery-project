@@ -14,15 +14,22 @@
 
 using namespace cv;
 using namespace std;
+int signum()
+{
+if (rand()%2==0)
+return -1;
+else
+return 1;
+}
 
 int main()
 {
-ifstream newfile("test.new"); 
+ifstream newfile("train.new"); 
 string str((std::istreambuf_iterator<char>(newfile)),std::istreambuf_iterator<char>()); //copying content to string
 std::vector<std::string> strs;
 boost::split(strs, str, boost::is_any_of("\n")); //splitting with lines
 int iter=1;
-int pic_id=1574;
+int pic_id=1174;
 int prev_id=0;
 for(iter=0;iter<strs.size();iter++)
 {
@@ -36,17 +43,25 @@ for(iter=0;iter<strs.size();iter++)
 		
 		stringstream ss;
 		ss << pic_id;
-		string filename="testData/00"+ss.str()+".png";
+		string filename="trainData/00"+ss.str()+".png";
 		//cout<<filename<<endl;
 		std::vector<std::string> info;
 		boost::split(info,strs[iter], boost::is_any_of(" "));
 		Mat src = imread(filename, CV_LOAD_IMAGE_COLOR);
 		if(prev_id==pic_id) //second tool
 		{
-			cout<<"THE SECOND TOOL"<<endl;
+			
+			int one=std::stoi(info[1])-32+signum()*(rand()%10);
+			int two=std::stoi(info[2])-32+signum()*(rand()%10);
+			cout<<"one"<<one<<"two"<<two<<endl;
+			if(one>319 || one <0 || two>219 || two<0)
+			{	cout<<"Here I COME";
+				continue;
+			}
+			
 			Rect secondrect;
-			secondrect.y = std::stoi(info[1])-32;
-			secondrect.x = std::stoi(info[2])-32;
+			secondrect.y = one;
+			secondrect.x = two;
 			secondrect.width = 64;
 			secondrect.height = 64;
 			Mat croppedTool;
@@ -54,7 +69,7 @@ for(iter=0;iter<strs.size();iter++)
 			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
 			namedWindow("damn", CV_WINDOW_NORMAL);
 			imshow("damn", croppedTool);
-			imwrite( "genData/postest/second/second00"+ss.str()+".png", croppedTool );
+			imwrite( "genData/pos/second/second00"+ss.str()+".png", croppedTool );
 			
 			Rect randomrect;
 			randomrect.y = (rand()%(maxy-miny))+miny;
@@ -63,7 +78,7 @@ for(iter=0;iter<strs.size();iter++)
 			randomrect.height = 64;
 			Mat croppedRandom;
 			croppedRandom = src(randomrect);
-			imwrite( "genData/negtest/imr02"+ss.str()+".png", croppedRandom );
+			imwrite( "genData/neg/imr02"+ss.str()+".png", croppedRandom );
 			
 			Rect arbitrect;
 			arbitrect.y = (rand()%(maxy-miny))+miny;
@@ -72,15 +87,25 @@ for(iter=0;iter<strs.size();iter++)
 			arbitrect.height = 64;
 			Mat croppedArbit;
 			croppedArbit = src(arbitrect);
-			imwrite( "genData/negtest/imr03"+ss.str()+".png", croppedArbit );
+			imwrite( "genData/neg/imr03"+ss.str()+".png", croppedArbit );
 
 		}
 		else //first tool
 		{
-			cout<<"THE FIRST TOOL"<<endl;
+			
 			Rect firstrect;
-			firstrect.y = std::stoi(info[1])-32;
-			firstrect.x = std::stoi(info[2])-32;
+			int one=std::stoi(info[1])-32+signum()*(rand()%10);
+			int two=std::stoi(info[2])-32+signum()*(rand()%30);
+			cout<<"one"<<one<<"two"<<two<<endl;
+			if(one>219 || one <0 || two>319 || two<0)
+			{
+				cout<<"Here I COME";
+				continue;
+			}
+			cout<<"THE FIRST TOOL"<<endl;
+			firstrect.y = one;
+			firstrect.x = two;
+		
 			firstrect.width = 64;
 			firstrect.height = 64;
 			Mat croppedTool;
@@ -88,7 +113,7 @@ for(iter=0;iter<strs.size();iter++)
 			cout<<croppedTool.rows<<"  "<<croppedTool.cols<<endl;
 			namedWindow("damn", CV_WINDOW_NORMAL);
 			imshow("damn", croppedTool);
-			imwrite( "genData/postest/first/first00"+ss.str()+".png", croppedTool );
+			imwrite( "genData/pos/first/first00"+ss.str()+".png", croppedTool );
 
 		}
 		// 

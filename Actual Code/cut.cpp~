@@ -19,13 +19,12 @@ int main()
 {
 int i=0,j=0;
 Mat src = imread("crop.png", CV_LOAD_IMAGE_COLOR);
-std::stringstream is;
-string ist;
 
-for (i=0;i<352;i++)
+for (i=0;i<352;i=i+2)
 {
-	for(j=0;j<256;j++)
-	{
+	for(j=0;j<256;j=j+2)
+	{	std::stringstream is;
+		string ist;
 		//cout<<"i"<<i<<"j"<<j<<endl;
 		Rect arbitrect;
 		arbitrect.y = j;
